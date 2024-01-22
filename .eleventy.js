@@ -1,6 +1,7 @@
 const fs = require("fs");
 const htmlmin = require("html-minifier");
 const dumpFilter = require("@jamshop/eleventy-filter-dump");
+const {parse} = require("csv-parse/sync");
 
 module.exports = function(eleventyConfig) {
 
@@ -9,6 +10,17 @@ module.exports = function(eleventyConfig) {
   }
 
   eleventyConfig.addFilter("dump", dumpFilter);
+
+
+  // add support for tsv
+  eleventyConfig.addDataExtension("tsv", (contents) => {
+  const records = parse(contents, {
+    columns: true,
+    skip_empty_lines: true,
+    delimiter: "\t"
+  });
+  return records;
+});
 
   // Passthrough
   eleventyConfig.addPassthroughCopy({ "src/static": "." });

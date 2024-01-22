@@ -2,46 +2,78 @@
 layout: default
 ---
 
+
+<!--
+  Heads up! 👋
+
+  Plugins:
+    - @tailwindcss/forms
+-->
+
+<header class="bg-gray-50">
+  <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-end gap-4">
+      <div class="flex items-center gap-4">
+        <div class="relative">
+          <label class="sr-only" for="search"> Search </label>
+
+        </div>
+      </div>
+
+      <span aria-hidden="true" class="block h-6 w-px rounded-full bg-gray-200"></span>
+
+      
+    </div>
+
+    <div class="mt-8">
+      <h1 class="text-2xl font-bold text-lime-800 sm:text-3xl"> {{ metadata.title }}</h1>
+
+      <p class="mt-1.5 text-sm text-gray-500">
+        {{ metadata.description }}
+      </p>
+    </div>
+  </div>
+</header>
+
+
 <main class="container mx-auto flex flex-col flex-wrap items-center px-6 pt-12 md:flex-row md:pt-24">
-  <header class="flex w-full flex-col justify-center overflow-y-hidden lg:items-start xl:w-2/5">
-    <h1 class="my-4 text-center text-3xl font-bold leading-tight text-blue-500 md:text-left md:text-5xl">
-      {{ metadata.title }}
-    </h1>
-    <p class="mb-6 text-center text-base leading-normal md:text-left md:text-2xl">{{ metadata.description }}</p>
-   
-  </header>
 
-
-
-  {%  for reading in readings%}
 <div class="container flex flex-col items-center justify-center w-full mx-auto bg-white rounded-lg shadow dark:bg-gray-800">
   <ul class="flex flex-col divide-y divide">
+  {%  for reading in readings%}
+
+     
       <li class="flex flex-row">
           <div class="flex items-center flex-1 p-4 cursor-pointer select-none">
               <div class="flex flex-col items-center justify-center w-12 h-10 mr-4">
-                  <a href="readings/{{ reading.day}}/" class="relative block">
+                  <a href="readings/{{ reading.day }}/" class="relative block">
                   Day {{ reading.day }}
                   </a>
               </div>
               <div class="flex-1 pl-1 mr-16">
                   <div class="font-medium dark:text-white">
-                    {{ reading.Theme  }}  
+                      <a href="readings/{{ reading.day }}/" class="relative block">
+                    {{ reading.theme  }}  
+                    </a>
                   </div>
                   <div class="text-sm text-gray-600 dark:text-gray-200">
-                      {{ reading.Scripture}}
+                      {{ reading.passage}}
                   </div>
               </div>
               <div class="text-xs text-gray-600 dark:text-gray-200">
-                {{ reading.Date | date: "%Y-%m-%d"}}
+                {{ reading.date | date: "%Y-%m-%d"}}
               </div>
+               <a href="readings/{{ reading.day }}/" class="relative block">
               <button class="flex justify-end w-24 text-right">
                   <svg width="20" fill="currentColor" height="20" class="text-gray-500 hover:text-gray-800 dark:hover:text-white dark:text-gray-200" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
                       <path d="M1363 877l-742 742q-19 19-45 19t-45-19l-166-166q-19-19-19-45t19-45l531-531-531-531q-19-19-19-45t19-45l166-166q19-19 45-19t45 19l742 742q19 19 19 45t-19 45z">
                       </path>
                   </svg>
               </button>
+          </a>
           </div>
       </li>
+      
       
       {% endfor %}
       
