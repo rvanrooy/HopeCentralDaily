@@ -36,49 +36,72 @@ layout: default
 </header>
 
 
+
+
 <main class="container mx-auto flex flex-col flex-wrap items-center px-6 pt-12 md:flex-row md:pt-24">
 
-<div class="container flex flex-col items-center justify-center w-full mx-auto bg-white rounded-lg shadow">
-  <ul class="flex flex-col divide-y divide">
-  {%  for reading in readings%}
 
-     
-      <li class="flex flex-row">
-          <div class="flex items-center flex-1 p-4 cursor-pointer select-none">
-              <div class="flex flex-col items-center justify-center w-12 h-10 mr-4">
+<div
+  class="relative flex flex-col w-full h-full overflow-scroll text-gray-700 bg-white shadow-md rounded-xl bg-clip-border">
+  <table class="w-full text-left table-auto min-w-max">
+    <thead>
+      <tr>
+        <th class="p-4 border-b border-blue-gray-100 bg-blue-gray-50">
+          <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
+            Day
+          </p>
+        </th>
+        <th class="p-4 border-b border-blue-gray-100 bg-blue-gray-50">
+          <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
+            Passage
+          </p>
+        </th>
+        <th class="p-4 border-b border-blue-gray-100 bg-blue-gray-50">
+          <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
+            Date
+          </p>
+        </th>
+        <th class="p-4 border-b border-blue-gray-100 bg-blue-gray-50">
+          <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70"></p>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+    {%  for reading in readings%}
+      <tr>
+        <td class="p-4 border-b border-blue-gray-50">
+          <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
+            <div class="font-medium dark:text-white">
                   <a href="readings/{{ reading.day }}/" class="relative block">
                   Day {{ reading.day }}
                   </a>
-              </div>
-              <div class="flex-1 pl-1 mr-16">
-                  <div class="font-medium dark:text-white">
+                  </div>
+          </p>
+        </td>
+        <td class="p-4 border-b border-blue-gray-50">
+          <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
+            <div class="font-medium dark:text-white">
                       <a href="readings/{{ reading.day }}/" class="relative block">
-                    {{ reading.theme  }}  
+                    {{ reading.passage }} - {{ reading.theme  }}  
                     </a>
                   </div>
-                  <div class="text-sm text-gray-600 dark:text-gray-200">
-                      {{ reading.passage}}
-                  </div>
-              </div>
-              <div class="text-xs text-gray-600 dark:text-gray-200">
+          </p>
+        </td>
+        <td class="p-4 border-b border-blue-gray-50">
+          <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
+            <div class="text-xs text-gray-600 dark:text-gray-200">
                 {{ reading.date | date: "%Y-%m-%d"}}
               </div>
-               <a href="readings/{{ reading.day }}/" class="relative block">
-              <button class="flex justify-end w-24 text-right">
-                  <svg width="20" fill="currentColor" height="20" class="text-gray-500 hover:text-gray-800 dark:hover:text-white dark:text-gray-200" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M1363 877l-742 742q-19 19-45 19t-45-19l-166-166q-19-19-19-45t19-45l531-531-531-531q-19-19-19-45t19-45l166-166q19-19 45-19t45 19l742 742q19 19 19 45t-19 45z">
-                      </path>
-                  </svg>
-              </button>
-          </a>
-          </div>
-      </li>
-      
-      
-      {% endfor %}
-      
-  </ul>
+          </p>
+        </td>
+       
+      </tr>
+          {% endfor %}
+    </tbody>
+  </table>
 </div>
+
+
 
 
 </main>
