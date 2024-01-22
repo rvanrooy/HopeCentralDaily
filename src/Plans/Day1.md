@@ -1,4 +1,5 @@
 ---
+layout: default
 pageTitle: Day 1
 date: 2024-01-22
 scripture: Genesis 1:1-13

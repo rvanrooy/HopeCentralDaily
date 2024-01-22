@@ -1,11 +1,14 @@
 const fs = require("fs");
 const htmlmin = require("html-minifier");
+const dumpFilter = require("@jamshop/eleventy-filter-dump");
 
 module.exports = function(eleventyConfig) {
 
   if (process.env.ELEVENTY_PRODUCTION) {
     eleventyConfig.addTransform("htmlmin", htmlminTransform);
   }
+
+  eleventyConfig.addFilter("dump", dumpFilter);
 
   // Passthrough
   eleventyConfig.addPassthroughCopy({ "src/static": "." });

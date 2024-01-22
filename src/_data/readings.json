@@ -1,0 +1,36 @@
+[
+    {
+        "Date": "2024-01-20",
+        "Theme": "Reflecting on Creation",
+        "day": 1,
+        "Scripture": "Genesis 1:1-13",
+        "startRef": "GEN.1.1",
+        "endRef": "GEN.1.13",
+        "Devotion": "Today, ponder the majestic account of God's creation. Consider the power and intentionality with which God brought forth light, separated the waters, and formed the foundations of the earth. As you read, marvel at the Creator's design and order in the universe.",
+        "PrayerPrompt": "Pray for a renewed appreciation of God's creative power in your life.",
+        "ImageDescription": "An image depicting the beauty of the created world, with vibrant landscapes, oceans, and celestial bodies.",
+        "OptionalPassages": ["Psalm 104", "Proverbs 3:19-20"],
+        "Quotation": {
+          "Quote": "In the beginning, God created the heavens and the earth.",
+          "Author": "Genesis 1:1",
+          "Link": "https://www.biblegateway.com/passage/?search=Genesis+1:1"
+        }
+      },
+      {
+        "Date": "2024-01-21",
+        "day": 2,
+        "Theme": "Embracing God's Sovereignty",
+        "Scripture": "Genesis 1:14-31",
+        "startRef": "GEN.1.14",
+        "endRef": "GEN.1.31",
+        "Devotion": "Dive into the narrative of God's creation of the sun, moon, stars, animals, and humans. Acknowledge God's sovereignty over all of creation. Take time to appreciate the intricate details in each creature and express gratitude for being part of God's grand design.",
+        "PrayerPrompt": "Pray for a deeper understanding of God's sovereignty in your daily life.",
+        "ImageDescription": "An image symbolizing God's sovereignty, perhaps featuring a majestic night sky filled with stars.",
+        "OptionalPassages": ["Psalm 19:1-6", "Proverbs 8:22-31"],
+        "Quotation": {
+          "Quote": "The heavens declare the glory of God; the skies proclaim the work of his hands.",
+          "Author": "Psalm 19:1",
+          "Link": "https://www.biblegateway.com/passage/?search=Psalm+19:1"
+        }
+      }
+]

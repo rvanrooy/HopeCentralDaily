@@ -1,7 +1,7 @@
 {
-  "name": "windty",
+  "name": "HopeCentralDaily",
   "version": "1.0.0",
-  "description": "Simple 11ty template with tailwind",
+  "description": "Daily Reading Plan",
   "scripts": {
     "start": "run-p start:*",
     "start:eleventy": "eleventy --serve",
@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/distantcam/windty.git"
+    "url": "https://github.com/rvanrooy/HopeCentralDaily.git"
   },
   "keywords": [
     "eleventy",
     "11ty",
     "tailwind"
   ],
-  "author": "Cam MacFarland",
+  "author": "Reinhardt van Rooyen",
   "license": "Unlicense",
-  "homepage": "https://github.com/distantcam/windty#readme",
+  "homepage": "https://github.com/rvanrooy/HopeCentralDaily#readme",
   "bugs": {
-    "url": "https://github.com/distantcam/windty/issues"
+    "url": "https://github.com/rvanrooy/HopeCentralDaily/issues"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
@@ -38,5 +38,8 @@
     "postcss-import": "^16.0.0",
     "rimraf": "^5.0.5",
     "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@jamshop/eleventy-filter-dump": "^1.0.4"
   }
 }
