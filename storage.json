@@ -1,0 +1,1183 @@
+{
+    "PSA.104.24-PSA.104.30": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "PSA.104.24-PSA.104.30",
+                "orgId": "PSA.104.24-PSA.104.30",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "PSA",
+                "chapterIds": [
+                    "PSA.104"
+                ],
+                "reference": "Psalm 104:24-30",
+                "content": "<p class=\"b\"></p><p class=\"q1\"><span data-number=\"24\" data-sid=\"PSA 104:24\" class=\"v\">24</span>O <span class=\"nd\">Lord</span>, how manifold are your works!</p><p data-vid=\"PSA 104:24\" class=\"q2\">In wisdom have you made them all;</p><p data-vid=\"PSA 104:24\" class=\"q2\">the earth is full of your creatures.</p><p class=\"q1\"><span data-number=\"25\" data-sid=\"PSA 104:25\" class=\"v\">25</span>Here is the sea, great and wide,</p><p data-vid=\"PSA 104:25\" class=\"q2\">which teems with creatures innumerable,</p><p data-vid=\"PSA 104:25\" class=\"q2\">living things both small and great.</p><p class=\"q1\"><span data-number=\"26\" data-sid=\"PSA 104:26\" class=\"v\">26</span>There go the ships,</p><p data-vid=\"PSA 104:26\" class=\"q2\">and Leviathan, which you formed to play in it.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"27\" data-sid=\"PSA 104:27\" class=\"v\">27</span>These all look to you,</p><p data-vid=\"PSA 104:27\" class=\"q2\">to give them their food in due season.</p><p class=\"q1\"><span data-number=\"28\" data-sid=\"PSA 104:28\" class=\"v\">28</span>When you give it to them, they gather it up;</p><p data-vid=\"PSA 104:28\" class=\"q2\">when you open your hand, they are filled with good things.</p><p class=\"q1\"><span data-number=\"29\" data-sid=\"PSA 104:29\" class=\"v\">29</span>When you hide your face, they are dismayed;</p><p data-vid=\"PSA 104:29\" class=\"q2\">when you take away their breath, they die</p><p data-vid=\"PSA 104:29\" class=\"q2\">and return to their dust.</p><p class=\"q1\"><span data-number=\"30\" data-sid=\"PSA 104:30\" class=\"v\">30</span>When you send forth your Spirit, they are created,</p><p data-vid=\"PSA 104:30\" class=\"q2\">and you renew the face of the ground.</p>",
+                "verseCount": 7,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('376a85cd-c415-4564-87fc-c4d4493da534');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='376a85cd-c415-4564-87fc-c4d4493da534'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "376a85cd-c415-4564-87fc-c4d4493da534",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('376a85cd-c415-4564-87fc-c4d4493da534'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=376a85cd-c415-4564-87fc-c4d4493da534\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "JOB.38.4-JOB.38.11": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "JOB.38.4-JOB.38.11",
+                "orgId": "JOB.38.4-JOB.38.11",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "JOB",
+                "chapterIds": [
+                    "JOB.38"
+                ],
+                "reference": "Job 38:4-11",
+                "content": "<p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"JOB 38:4\" class=\"v\">4</span>“Where were you when I laid the foundation of the earth?</p><p data-vid=\"JOB 38:4\" class=\"q2\">Tell me, if you have understanding.</p><p class=\"q1\"><span data-number=\"5\" data-sid=\"JOB 38:5\" class=\"v\">5</span>Who determined its measurements—surely you know!</p><p data-vid=\"JOB 38:5\" class=\"q2\">Or who stretched the line upon it?</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"JOB 38:6\" class=\"v\">6</span>On what were its bases sunk,</p><p data-vid=\"JOB 38:6\" class=\"q2\">or who laid its cornerstone,</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"JOB 38:7\" class=\"v\">7</span>when the morning stars sang together</p><p data-vid=\"JOB 38:7\" class=\"q2\">and all the sons of God shouted for joy?</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"8\" data-sid=\"JOB 38:8\" class=\"v\">8</span>“Or who shut in the sea with doors</p><p data-vid=\"JOB 38:8\" class=\"q2\">when it burst out from the womb,</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"JOB 38:9\" class=\"v\">9</span>when I made clouds its garment</p><p data-vid=\"JOB 38:9\" class=\"q2\">and thick darkness its swaddling band,</p><p class=\"q1\"><span data-number=\"10\" data-sid=\"JOB 38:10\" class=\"v\">10</span>and prescribed limits for it</p><p data-vid=\"JOB 38:10\" class=\"q2\">and set bars and doors,</p><p class=\"q1\"><span data-number=\"11\" data-sid=\"JOB 38:11\" class=\"v\">11</span>and said, ‘Thus far shall you come, and no farther,</p><p data-vid=\"JOB 38:11\" class=\"q2\">and here shall your proud waves be stayed’?</p>",
+                "verseCount": 8,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5ea18e74-40d6-4b6a-ac52-4d227fb93c67');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5ea18e74-40d6-4b6a-ac52-4d227fb93c67'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "5ea18e74-40d6-4b6a-ac52-4d227fb93c67",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5ea18e74-40d6-4b6a-ac52-4d227fb93c67'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5ea18e74-40d6-4b6a-ac52-4d227fb93c67\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "MAT.6.25-MAT.6.34": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "MAT.6.25-MAT.6.34",
+                "orgId": "MAT.6.25-MAT.6.34",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "MAT",
+                "chapterIds": [
+                    "MAT.6"
+                ],
+                "reference": "Matthew 6:25-34",
+                "content": "<p class=\"s1\">Do Not Be Anxious</p><p class=\"p\"><span data-number=\"25\" data-sid=\"MAT 6:25\" class=\"v\">25</span><span class=\"wj\">“Therefore I tell you, </span><span class=\"wj\">do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing?</span> <span data-number=\"26\" data-sid=\"MAT 6:26\" class=\"v\">26</span><span class=\"wj\">Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. </span><span class=\"wj\">Are you not of more value than they?</span> <span data-number=\"27\" data-sid=\"MAT 6:27\" class=\"v\">27</span><span class=\"wj\">And which of you by being anxious can add a single hour to his </span><span class=\"wj\">span of life?</span> <span data-number=\"28\" data-sid=\"MAT 6:28\" class=\"v\">28</span><span class=\"wj\">And why are you anxious about clothing? Consider the lilies of the field, how they grow: they neither toil nor spin,</span> <span data-number=\"29\" data-sid=\"MAT 6:29\" class=\"v\">29</span><span class=\"wj\">yet I tell you, </span><span class=\"wj\">even Solomon in all his glory was not arrayed like one of these.</span> <span data-number=\"30\" data-sid=\"MAT 6:30\" class=\"v\">30</span><span class=\"wj\">But if God so clothes the grass of the field, which today is alive and tomorrow is thrown into the oven, will he not much more clothe you, </span><span class=\"wj\">O you of little faith?</span> <span data-number=\"31\" data-sid=\"MAT 6:31\" class=\"v\">31</span><span class=\"wj\">Therefore do not be anxious, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’</span> <span data-number=\"32\" data-sid=\"MAT 6:32\" class=\"v\">32</span><span class=\"wj\">For </span><span class=\"wj\">the Gentiles seek after all these things, and </span><span class=\"wj\">your heavenly Father knows that you need them all.</span> <span data-number=\"33\" data-sid=\"MAT 6:33\" class=\"v\">33</span><span class=\"wj\">But </span><span class=\"wj\">seek first </span><span class=\"wj\">the kingdom of God and his righteousness, </span><span class=\"wj\">and all these things will be added to you.</span></p><p class=\"p\"><span data-number=\"34\" data-sid=\"MAT 6:34\" class=\"v\">34</span><span class=\"wj\">“Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.</span></p>",
+                "verseCount": 10,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('7ce1f150-7734-4b8f-a1ad-cb111ecf07c7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='7ce1f150-7734-4b8f-a1ad-cb111ecf07c7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "7ce1f150-7734-4b8f-a1ad-cb111ecf07c7",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('7ce1f150-7734-4b8f-a1ad-cb111ecf07c7'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=7ce1f150-7734-4b8f-a1ad-cb111ecf07c7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "PSA.147.8-PSA.147.9": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "PSA.147.8-PSA.147.9",
+                "orgId": "PSA.147.8-PSA.147.9",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "PSA",
+                "chapterIds": [
+                    "PSA.147"
+                ],
+                "reference": "Psalm 147:8-9",
+                "content": "<p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 147:8\" class=\"v\">8</span>He covers the heavens with clouds;</p><p data-vid=\"PSA 147:8\" class=\"q2\">he prepares rain for the earth;</p><p data-vid=\"PSA 147:8\" class=\"q2\">he makes grass grow on the hills.</p><p class=\"q1\"><span data-number=\"9\" data-sid=\"PSA 147:9\" class=\"v\">9</span>He gives to the beasts their food,</p><p data-vid=\"PSA 147:9\" class=\"q2\">and to the young ravens that cry.</p>",
+                "verseCount": 2,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('609f074a-91aa-4a38-9a6b-c6afbdf55398');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='609f074a-91aa-4a38-9a6b-c6afbdf55398'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "609f074a-91aa-4a38-9a6b-c6afbdf55398",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('609f074a-91aa-4a38-9a6b-c6afbdf55398'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=609f074a-91aa-4a38-9a6b-c6afbdf55398\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "PSA.8.4-PSA.8.8": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "PSA.8.4-PSA.8.8",
+                "orgId": "PSA.8.5-PSA.8.9",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "PSA",
+                "chapterIds": [
+                    "PSA.8"
+                ],
+                "reference": "Psalm 8:4-8",
+                "content": "<p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 8:4\" class=\"v\">4</span>what is man that you are mindful of him,</p><p data-vid=\"PSA 8:4\" class=\"q2\">and the son of man that you care for him?</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"5\" data-sid=\"PSA 8:5\" class=\"v\">5</span>Yet you have made him a little lower than the heavenly beings</p><p data-vid=\"PSA 8:5\" class=\"q2\">and crowned him with glory and honor.</p><p class=\"q1\"><span data-number=\"6\" data-sid=\"PSA 8:6\" class=\"v\">6</span>You have given him dominion over the works of your hands;</p><p data-vid=\"PSA 8:6\" class=\"q2\">you have put all things under his feet,</p><p class=\"q1\"><span data-number=\"7\" data-sid=\"PSA 8:7\" class=\"v\">7</span>all sheep and oxen,</p><p data-vid=\"PSA 8:7\" class=\"q2\">and also the beasts of the field,</p><p class=\"q1\"><span data-number=\"8\" data-sid=\"PSA 8:8\" class=\"v\">8</span>the birds of the heavens, and the fish of the sea,</p><p data-vid=\"PSA 8:8\" class=\"q2\">whatever passes along the paths of the seas.</p>",
+                "verseCount": 5,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cdddcc58-ba9b-4fbc-8760-bcb9c20989ed');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cdddcc58-ba9b-4fbc-8760-bcb9c20989ed'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "cdddcc58-ba9b-4fbc-8760-bcb9c20989ed",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cdddcc58-ba9b-4fbc-8760-bcb9c20989ed'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cdddcc58-ba9b-4fbc-8760-bcb9c20989ed\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "JAS.3.9-JAS.3.10": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "JAS.3.9-JAS.3.10",
+                "orgId": "JAS.3.9-JAS.3.10",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "JAS",
+                "chapterIds": [
+                    "JAS.3"
+                ],
+                "reference": "James 3:9-10",
+                "content": "<p data-vid=\"JAS 3:5\" class=\"p\"><span data-number=\"9\" data-sid=\"JAS 3:9\" class=\"v\">9</span>With it we bless our Lord and Father, and with it we curse people who are made in the likeness of God. <span data-number=\"10\" data-sid=\"JAS 3:10\" class=\"v\">10</span>From the same mouth come blessing and cursing. My brothers, these things ought not to be so. </p>",
+                "verseCount": 2,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c32f2edf-8517-4dca-9153-2ff1d31d5894');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c32f2edf-8517-4dca-9153-2ff1d31d5894'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "c32f2edf-8517-4dca-9153-2ff1d31d5894",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c32f2edf-8517-4dca-9153-2ff1d31d5894'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c32f2edf-8517-4dca-9153-2ff1d31d5894\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EPH.5.21-EPH.5.33": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EPH.5.21-EPH.5.33",
+                "orgId": "EPH.5.21-EPH.5.33",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EPH",
+                "chapterIds": [
+                    "EPH.5"
+                ],
+                "reference": "Ephesians 5:21-33",
+                "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"EPH 5:21\" class=\"v\">21</span>submitting to one another out of reverence for Christ.</p><p class=\"s1\">Wives and Husbands</p><p class=\"p\"><span data-number=\"22\" data-sid=\"EPH 5:22\" class=\"v\">22</span>Wives, submit to your own husbands, as to the Lord. <span data-number=\"23\" data-sid=\"EPH 5:23\" class=\"v\">23</span>For the husband is the head of the wife even as Christ is the head of the church, his body, and is himself its Savior. <span data-number=\"24\" data-sid=\"EPH 5:24\" class=\"v\">24</span>Now as the church submits to Christ, so also wives should submit in everything to their husbands.</p><p class=\"p\"><span data-number=\"25\" data-sid=\"EPH 5:25\" class=\"v\">25</span>Husbands, love your wives, as Christ loved the church and gave himself up for her, <span data-number=\"26\" data-sid=\"EPH 5:26\" class=\"v\">26</span>that he might sanctify her, having cleansed her by the washing of water with the word, <span data-number=\"27\" data-sid=\"EPH 5:27\" class=\"v\">27</span>so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. <span data-number=\"28\" data-sid=\"EPH 5:28\" class=\"v\">28</span>In the same way husbands should love their wives as their own bodies. He who loves his wife loves himself. <span data-number=\"29\" data-sid=\"EPH 5:29\" class=\"v\">29</span>For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the church, <span data-number=\"30\" data-sid=\"EPH 5:30\" class=\"v\">30</span>because we are members of his body. <span data-number=\"31\" data-sid=\"EPH 5:31\" class=\"v\">31</span>“Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.” <span data-number=\"32\" data-sid=\"EPH 5:32\" class=\"v\">32</span>This mystery is profound, and I am saying that it refers to Christ and the church. <span data-number=\"33\" data-sid=\"EPH 5:33\" class=\"v\">33</span>However, let each one of you love his wife as himself, and let the wife see that she respects her husband.</p>",
+                "verseCount": 13,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('b9f850e8-58ef-4277-9f8f-275b0a5e43f2');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='b9f850e8-58ef-4277-9f8f-275b0a5e43f2'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "b9f850e8-58ef-4277-9f8f-275b0a5e43f2",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('b9f850e8-58ef-4277-9f8f-275b0a5e43f2'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=b9f850e8-58ef-4277-9f8f-275b0a5e43f2\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "MRK.10.6-MRK.10.9": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "MRK.10.6-MRK.10.9",
+                "orgId": "MRK.10.6-MRK.10.9",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "MRK",
+                "chapterIds": [
+                    "MRK.10"
+                ],
+                "reference": "Mark 10:6-9",
+                "content": "<p class=\"p\"><span data-number=\"6\" data-sid=\"MRK 10:6\" class=\"v\">6</span><span class=\"wj\">But </span><span class=\"wj\">from the beginning of creation, ‘God made them </span><span class=\"wj\">male and female.’</span> <span data-number=\"7\" data-sid=\"MRK 10:7\" class=\"v\">7</span><span class=\"wj\">‘Therefore a man shall leave his father and mother and hold fast to his wife,</span> <span data-number=\"8\" data-sid=\"MRK 10:8\" class=\"v\">8</span><span class=\"wj\">and </span><span class=\"wj\">the two shall become one flesh.’ So they are no longer two but one flesh.</span> <span data-number=\"9\" data-sid=\"MRK 10:9\" class=\"v\">9</span><span class=\"wj\">What therefore God has joined together, let not man separate.”</span></p>",
+                "verseCount": 4,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c648e896-9c51-4f1e-861f-d30a5aa06e2d');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c648e896-9c51-4f1e-861f-d30a5aa06e2d'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "c648e896-9c51-4f1e-861f-d30a5aa06e2d",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c648e896-9c51-4f1e-861f-d30a5aa06e2d'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c648e896-9c51-4f1e-861f-d30a5aa06e2d\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "Genesis 1:1-13": {
+        "message": "An error occurred",
+        "error": {
+            "message": "Request failed with status code 400",
+            "name": "Error",
+            "stack": "Error: Request failed with status code 400\n    at createError (/var/task/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/var/task/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/var/task/node_modules/axios/lib/adapters/http.js:236:11)\n    at IncomingMessage.emit (events.js:326:22)\n    at IncomingMessage.EventEmitter.emit (domain.js:483:12)\n    at endReadableNT (_stream_readable.js:1241:12)\n    at processTicksAndRejections (internal/process/task_queues.js:84:21)",
+            "config": {
+                "url": "/bibles/f421fe261da7624f-01/passages/Genesis%201:1-13?include-titles=true",
+                "method": "get",
+                "headers": {
+                    "Accept": "application/json, text/plain, */*",
+                    "api-key": "3dba78fef49d13af98c277ab2996732e",
+                    "User-Agent": "axios/0.19.2"
+                },
+                "baseURL": "https://api.scripture.api.bible/v1/",
+                "transformRequest": [
+                    null
+                ],
+                "transformResponse": [
+                    null
+                ],
+                "timeout": 10000,
+                "xsrfCookieName": "XSRF-TOKEN",
+                "xsrfHeaderName": "X-XSRF-TOKEN",
+                "maxContentLength": -1
+            }
+        }
+    },
+    "Genesis 1:14-25": {
+        "message": "An error occurred",
+        "error": {
+            "message": "Request failed with status code 400",
+            "name": "Error",
+            "stack": "Error: Request failed with status code 400\n    at createError (/var/task/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/var/task/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/var/task/node_modules/axios/lib/adapters/http.js:236:11)\n    at IncomingMessage.emit (events.js:326:22)\n    at IncomingMessage.EventEmitter.emit (domain.js:483:12)\n    at endReadableNT (_stream_readable.js:1241:12)\n    at processTicksAndRejections (internal/process/task_queues.js:84:21)",
+            "config": {
+                "url": "/bibles/f421fe261da7624f-01/passages/Genesis%201:14-25?include-titles=true",
+                "method": "get",
+                "headers": {
+                    "Accept": "application/json, text/plain, */*",
+                    "api-key": "3dba78fef49d13af98c277ab2996732e",
+                    "User-Agent": "axios/0.19.2"
+                },
+                "baseURL": "https://api.scripture.api.bible/v1/",
+                "transformRequest": [
+                    null
+                ],
+                "transformResponse": [
+                    null
+                ],
+                "timeout": 10000,
+                "xsrfCookieName": "XSRF-TOKEN",
+                "xsrfHeaderName": "X-XSRF-TOKEN",
+                "maxContentLength": -1
+            }
+        }
+    },
+    "Genesis 1:26-2:3": {
+        "message": "An error occurred",
+        "error": {
+            "message": "Request failed with status code 400",
+            "name": "Error",
+            "stack": "Error: Request failed with status code 400\n    at createError (/var/task/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/var/task/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/var/task/node_modules/axios/lib/adapters/http.js:236:11)\n    at IncomingMessage.emit (events.js:326:22)\n    at IncomingMessage.EventEmitter.emit (domain.js:483:12)\n    at endReadableNT (_stream_readable.js:1241:12)\n    at processTicksAndRejections (internal/process/task_queues.js:84:21)",
+            "config": {
+                "url": "/bibles/f421fe261da7624f-01/passages/Genesis%201:26-2:3?include-titles=true",
+                "method": "get",
+                "headers": {
+                    "Accept": "application/json, text/plain, */*",
+                    "api-key": "3dba78fef49d13af98c277ab2996732e",
+                    "User-Agent": "axios/0.19.2"
+                },
+                "baseURL": "https://api.scripture.api.bible/v1/",
+                "transformRequest": [
+                    null
+                ],
+                "transformResponse": [
+                    null
+                ],
+                "timeout": 10000,
+                "xsrfCookieName": "XSRF-TOKEN",
+                "xsrfHeaderName": "X-XSRF-TOKEN",
+                "maxContentLength": -1
+            }
+        }
+    },
+    "Genesis 2:4-25": {
+        "message": "An error occurred",
+        "error": {
+            "message": "Request failed with status code 400",
+            "name": "Error",
+            "stack": "Error: Request failed with status code 400\n    at createError (/var/task/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/var/task/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/var/task/node_modules/axios/lib/adapters/http.js:236:11)\n    at IncomingMessage.emit (events.js:326:22)\n    at IncomingMessage.EventEmitter.emit (domain.js:483:12)\n    at endReadableNT (_stream_readable.js:1241:12)\n    at processTicksAndRejections (internal/process/task_queues.js:84:21)",
+            "config": {
+                "url": "/bibles/f421fe261da7624f-01/passages/Genesis%202:4-25?include-titles=true",
+                "method": "get",
+                "headers": {
+                    "Accept": "application/json, text/plain, */*",
+                    "api-key": "3dba78fef49d13af98c277ab2996732e",
+                    "User-Agent": "axios/0.19.2"
+                },
+                "baseURL": "https://api.scripture.api.bible/v1/",
+                "transformRequest": [
+                    null
+                ],
+                "transformResponse": [
+                    null
+                ],
+                "timeout": 10000,
+                "xsrfCookieName": "XSRF-TOKEN",
+                "xsrfHeaderName": "X-XSRF-TOKEN",
+                "maxContentLength": -1
+            }
+        }
+    },
+    "GEN.1.1-GEN.1.13": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "GEN.1.1-GEN.1.13",
+                "orgId": "GEN.1.1-GEN.1.13",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "GEN",
+                "chapterIds": [
+                    "GEN.1"
+                ],
+                "reference": "Genesis 1:1-13",
+                "content": "<p class=\"s1\">The Creation of the World</p><p class=\"p\"><span data-number=\"1\" data-sid=\"GEN 1:1\" class=\"v\">1</span>In the beginning, God created the heavens and the earth. <span data-number=\"2\" data-sid=\"GEN 1:2\" class=\"v\">2</span>The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.</p><p class=\"p\"><span data-number=\"3\" data-sid=\"GEN 1:3\" class=\"v\">3</span>And God said, “Let there be light,” and there was light. <span data-number=\"4\" data-sid=\"GEN 1:4\" class=\"v\">4</span>And God saw that the light was good. And God separated the light from the darkness. <span data-number=\"5\" data-sid=\"GEN 1:5\" class=\"v\">5</span>God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.</p><p class=\"p\"><span data-number=\"6\" data-sid=\"GEN 1:6\" class=\"v\">6</span>And God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.” <span data-number=\"7\" data-sid=\"GEN 1:7\" class=\"v\">7</span>And God made the expanse and separated the waters that were under the expanse from the waters that were above the expanse. And it was so. <span data-number=\"8\" data-sid=\"GEN 1:8\" class=\"v\">8</span>And God called the expanse Heaven. And there was evening and there was morning, the second day.</p><p class=\"p\"><span data-number=\"9\" data-sid=\"GEN 1:9\" class=\"v\">9</span>And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.” And it was so. <span data-number=\"10\" data-sid=\"GEN 1:10\" class=\"v\">10</span>God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good.</p><p class=\"p\"><span data-number=\"11\" data-sid=\"GEN 1:11\" class=\"v\">11</span>And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so. <span data-number=\"12\" data-sid=\"GEN 1:12\" class=\"v\">12</span>The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good. <span data-number=\"13\" data-sid=\"GEN 1:13\" class=\"v\">13</span>And there was evening and there was morning, the third day.</p>",
+                "verseCount": 13,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('a3ae3472-1df5-4ede-b8da-6c27ed71b4bc');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='a3ae3472-1df5-4ede-b8da-6c27ed71b4bc'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "a3ae3472-1df5-4ede-b8da-6c27ed71b4bc",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('a3ae3472-1df5-4ede-b8da-6c27ed71b4bc'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=a3ae3472-1df5-4ede-b8da-6c27ed71b4bc\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "GEN.1.14-GEN.1.25": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "GEN.1.14-GEN.1.25",
+                "orgId": "GEN.1.14-GEN.1.25",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "GEN",
+                "chapterIds": [
+                    "GEN.1"
+                ],
+                "reference": "Genesis 1:14-25",
+                "content": "<p class=\"p\"><span data-number=\"14\" data-sid=\"GEN 1:14\" class=\"v\">14</span>And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years, <span data-number=\"15\" data-sid=\"GEN 1:15\" class=\"v\">15</span>and let them be lights in the expanse of the heavens to give light upon the earth.” And it was so. <span data-number=\"16\" data-sid=\"GEN 1:16\" class=\"v\">16</span>And God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars. <span data-number=\"17\" data-sid=\"GEN 1:17\" class=\"v\">17</span>And God set them in the expanse of the heavens to give light on the earth, <span data-number=\"18\" data-sid=\"GEN 1:18\" class=\"v\">18</span>to rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good. <span data-number=\"19\" data-sid=\"GEN 1:19\" class=\"v\">19</span>And there was evening and there was morning, the fourth day.</p><p class=\"p\"><span data-number=\"20\" data-sid=\"GEN 1:20\" class=\"v\">20</span>And God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.” <span data-number=\"21\" data-sid=\"GEN 1:21\" class=\"v\">21</span>So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good. <span data-number=\"22\" data-sid=\"GEN 1:22\" class=\"v\">22</span>And God blessed them, saying, “Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.” <span data-number=\"23\" data-sid=\"GEN 1:23\" class=\"v\">23</span>And there was evening and there was morning, the fifth day.</p><p class=\"p\"><span data-number=\"24\" data-sid=\"GEN 1:24\" class=\"v\">24</span>And God said, “Let the earth bring forth living creatures according to their kinds—livestock and creeping things and beasts of the earth according to their kinds.” And it was so. <span data-number=\"25\" data-sid=\"GEN 1:25\" class=\"v\">25</span>And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good.</p>",
+                "verseCount": 12,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('f838c4d8-8541-42db-9eff-9d03f4f88e66');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='f838c4d8-8541-42db-9eff-9d03f4f88e66'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "f838c4d8-8541-42db-9eff-9d03f4f88e66",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('f838c4d8-8541-42db-9eff-9d03f4f88e66'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=f838c4d8-8541-42db-9eff-9d03f4f88e66\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "GEN.1.26-GEN.2.3": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "GEN.1.26-GEN.2.3",
+                "orgId": "GEN.1.26-GEN.2.3",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "GEN",
+                "chapterIds": [
+                    "GEN.1",
+                    "GEN.2"
+                ],
+                "reference": "Genesis 1:26-2:3",
+                "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"GEN 1:26\" class=\"v\">26</span>Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"27\" data-sid=\"GEN 1:27\" class=\"v\">27</span>So God created man in his own image,</p><p data-vid=\"GEN 1:27\" class=\"q2\">in the image of God he created him;</p><p data-vid=\"GEN 1:27\" class=\"q2\">male and female he created them.</p><p class=\"b\"></p><p class=\"p\"><span data-number=\"28\" data-sid=\"GEN 1:28\" class=\"v\">28</span>And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.” <span data-number=\"29\" data-sid=\"GEN 1:29\" class=\"v\">29</span>And God said, “Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food. <span data-number=\"30\" data-sid=\"GEN 1:30\" class=\"v\">30</span>And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food.” And it was so. <span data-number=\"31\" data-sid=\"GEN 1:31\" class=\"v\">31</span>And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.</p><p class=\"s1\">The Seventh Day, God Rests</p><p class=\"p\"><span data-number=\"1\" data-sid=\"GEN 2:1\" class=\"v\">1</span>Thus the heavens and the earth were finished, and all the host of them. <span data-number=\"2\" data-sid=\"GEN 2:2\" class=\"v\">2</span>And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. <span data-number=\"3\" data-sid=\"GEN 2:3\" class=\"v\">3</span>So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.</p>",
+                "verseCount": 9,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d915e81f-aa63-44c3-b0eb-975645b854ff');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d915e81f-aa63-44c3-b0eb-975645b854ff'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "d915e81f-aa63-44c3-b0eb-975645b854ff",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d915e81f-aa63-44c3-b0eb-975645b854ff'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d915e81f-aa63-44c3-b0eb-975645b854ff\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "GEN.2.4-GEN.2.25": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1698353549875,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "GEN.2.4-GEN.2.25",
+                "orgId": "GEN.2.4-GEN.2.25",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "GEN",
+                "chapterIds": [
+                    "GEN.2"
+                ],
+                "reference": "Genesis 2:4-25",
+                "content": "<p class=\"s1\">The Creation of Man and Woman</p><p class=\"q1\"><span data-number=\"4\" data-sid=\"GEN 2:4\" class=\"v\">4</span>These are the generations</p><p data-vid=\"GEN 2:4\" class=\"q1\">of the heavens and the earth when they were created,</p><p data-vid=\"GEN 2:4\" class=\"q1\">in the day that the <span class=\"nd\">Lord</span> God made the earth and the heavens.</p><p class=\"b\"></p><p class=\"p\"><span data-number=\"5\" data-sid=\"GEN 2:5\" class=\"v\">5</span>When no bush of the field was yet in the land and no small plant of the field had yet sprung up—for the <span class=\"nd\">Lord</span> God had not caused it to rain on the land, and there was no man to work the ground, <span data-number=\"6\" data-sid=\"GEN 2:6\" class=\"v\">6</span>and a mist was going up from the land and was watering the whole face of the ground— <span data-number=\"7\" data-sid=\"GEN 2:7\" class=\"v\">7</span>then the <span class=\"nd\">Lord</span> God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature. <span data-number=\"8\" data-sid=\"GEN 2:8\" class=\"v\">8</span>And the <span class=\"nd\">Lord</span> God planted a garden in Eden, in the east, and there he put the man whom he had formed. <span data-number=\"9\" data-sid=\"GEN 2:9\" class=\"v\">9</span>And out of the ground the <span class=\"nd\">Lord</span> God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.</p><p class=\"p\"><span data-number=\"10\" data-sid=\"GEN 2:10\" class=\"v\">10</span>A river flowed out of Eden to water the garden, and there it divided and became four rivers. <span data-number=\"11\" data-sid=\"GEN 2:11\" class=\"v\">11</span>The name of the first is the Pishon. It is the one that flowed around the whole land of Havilah, where there is gold. <span data-number=\"12\" data-sid=\"GEN 2:12\" class=\"v\">12</span>And the gold of that land is good; bdellium and onyx stone are there. <span data-number=\"13\" data-sid=\"GEN 2:13\" class=\"v\">13</span>The name of the second river is the Gihon. It is the one that flowed around the whole land of Cush. <span data-number=\"14\" data-sid=\"GEN 2:14\" class=\"v\">14</span>And the name of the third river is the Tigris, which flows east of Assyria. And the fourth river is the Euphrates.</p><p class=\"p\"><span data-number=\"15\" data-sid=\"GEN 2:15\" class=\"v\">15</span>The <span class=\"nd\">Lord</span> God took the man and put him in the garden of Eden to work it and keep it. <span data-number=\"16\" data-sid=\"GEN 2:16\" class=\"v\">16</span>And the <span class=\"nd\">Lord</span> God commanded the man, saying, “You may surely eat of every tree of the garden, <span data-number=\"17\" data-sid=\"GEN 2:17\" class=\"v\">17</span>but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”</p><p class=\"p\"><span data-number=\"18\" data-sid=\"GEN 2:18\" class=\"v\">18</span>Then the <span class=\"nd\">Lord</span> God said, “It is not good that the man should be alone; I will make him a helper fit for him.” <span data-number=\"19\" data-sid=\"GEN 2:19\" class=\"v\">19</span>Now out of the ground the <span class=\"nd\">Lord</span> God had formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name. <span data-number=\"20\" data-sid=\"GEN 2:20\" class=\"v\">20</span>The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam there was not found a helper fit for him. <span data-number=\"21\" data-sid=\"GEN 2:21\" class=\"v\">21</span>So the <span class=\"nd\">Lord</span> God caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh. <span data-number=\"22\" data-sid=\"GEN 2:22\" class=\"v\">22</span>And the rib that the <span class=\"nd\">Lord</span> God had taken from the man he made into a woman and brought her to the man. <span data-number=\"23\" data-sid=\"GEN 2:23\" class=\"v\">23</span>Then the man said,</p><p data-vid=\"GEN 2:23\" class=\"b\"></p><p data-vid=\"GEN 2:23\" class=\"q1\">“This at last is bone of my bones</p><p data-vid=\"GEN 2:23\" class=\"q2\">and flesh of my flesh;</p><p data-vid=\"GEN 2:23\" class=\"q1\">she shall be called Woman,</p><p data-vid=\"GEN 2:23\" class=\"q2\">because she was taken out of Man.”</p><p class=\"b\"></p><p class=\"m\"><span data-number=\"24\" data-sid=\"GEN 2:24\" class=\"v\">24</span>Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh. <span data-number=\"25\" data-sid=\"GEN 2:25\" class=\"v\">25</span>And the man and his wife were both naked and were not ashamed.</p>",
+                "verseCount": 22,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('15a8ecd8-9af8-4645-bbe2-dcdd3e6b9d6b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='15a8ecd8-9af8-4645-bbe2-dcdd3e6b9d6b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "15a8ecd8-9af8-4645-bbe2-dcdd3e6b9d6b",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('15a8ecd8-9af8-4645-bbe2-dcdd3e6b9d6b'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=15a8ecd8-9af8-4645-bbe2-dcdd3e6b9d6b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    }
+}

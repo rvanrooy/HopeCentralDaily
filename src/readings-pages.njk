@@ -42,9 +42,27 @@ permalink: "readings/{{ reading.day | slugify }}/"
             </div>
             <div class="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md">
                 <h2>Optional Passages</h2>
+
+
+
+
+
+
+
+
+
+
+<div class="font-bold justify-center text-center">{{ reading.passages[0].passage.data.reference | safe  }}</div>
+                  {{ reading.passages[0].passage.data.content | safe }}
+
+
+
+
+
+                
                 {% set optionalPassagesArray = reading.optionalPassages.split(",")%}
                 {% for passage in optionalPassagesArray%}
-                    {{ passage }},
+                    {{ passage | safe }},
                 {% endfor %}
             </div>
         </div>
@@ -53,13 +71,19 @@ permalink: "readings/{{ reading.day | slugify }}/"
                 <img src="{{ '/biblia-svgrepo-com.svg' | url }}" />
             </div>
             <div class="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md">
-                <div class="bg-slate-200 rounded-md " data-gb-widget="passage" data-passage="{{ reading.start }}-{{ reading.end }}" />
+
+            <div class="font-bold justify-center text-center">{{ reading.mainPassage.passage.data.reference | safe  }}</div>
+             {{ reading.mainPassage.passage.data.content | safe  }}
+
+                {# <div class="bg-slate-100 rounded-md " data-gb-widget="passage" data-passage="{{ reading.start }}-{{ reading.end }}" /> #}
             </div>
                         <p>
 
 </p>
         </div>
 
+
+<bible-tab-reader></bible-tab-reader>
 
     </div>
 

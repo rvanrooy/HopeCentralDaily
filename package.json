@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "alpinejs": "^3.13.4",
     "autoprefixer": "^10.4.17",
     "cross-env": "^7.0.3",
     "cssnano": "^6.0.3",
@@ -40,7 +41,14 @@
     "tailwindcss": "^3.4.1"
   },
   "dependencies": {
+    "@11ty/eleventy-fetch": "^4.0.0",
+    "@11ty/eleventy-plugin-webc": "^0.11.2",
+    "@11ty/is-land": "^4.0.0",
     "@jamshop/eleventy-filter-dump": "^1.0.4",
-    "csv-parse": "^5.5.3"
+    "bible-english": "^1.0.3",
+    "bible-passage-reference-parser": "^2.0.1",
+    "csv-parse": "^5.5.3",
+    "node-fetch": "^2.7.0",
+    "simple-json-db": "^2.0.0"
   }
 }
