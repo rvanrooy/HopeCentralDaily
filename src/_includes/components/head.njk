@@ -1,0 +1,46 @@
+<head>
+    <meta charset="utf-8">
+    <title>
+        {{- seo.title or title or site.title -}}
+    </title>
+    <meta name="description" content="{{ seo.description or description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- if seo.robots -%}
+        <meta name="robots" content="{{- seo.robots -}}">
+    {%- endif -%}
+
+    {%- if seo.canonical -%}
+        <link rel="canonical" href="{{- seo.canonical -}}">
+    {%- else -%}
+        <link rel="canonical" href="{{- site.url -}}{{- page.url -}}">
+    {%- endif -%}
+
+    <!-- Open Graph tags -->
+    <meta property="og:title" content="{{- seo.title or title -}}">
+    <meta property="og:description" content="{{- seo.description or description -}}">
+    <meta property="og:type" content="">
+    <meta property="og:url" content="{{- site.url -}}{{- page.url -}}">
+    <meta property="og:image" content="https://ta11y.app/img/social-preview-images/{{ page.date | datefmt }}-{{ title | slug }}-preview.jpeg">
+    <meta property="og:image:secure_url" content="https://ta11y.app/img/social-preview-images/{{ page.date | datefmt }}-{{ title | slug }}-preview.jpeg">
+    <link rel="apple-touch-icon" href="icon.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#FFFFFF">
+    <script>
+        if ("serviceWorker" in navigator) {
+            navigator
+                .serviceWorker
+                .register("/service-worker.js");
+        }
+    </script>
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+    {%- set css -%}
+    {%- include "../../../style.css" -%}
+    {%- endset -%}
+    {# <link rel="stylesheet" href="/style.css"> #}
+
+    <style>
+        {{- css | postcss | safe -}}
+    </style>
+</head>

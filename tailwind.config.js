@@ -1,7 +1,8 @@
 module.exports = {
-  content: ["./src/**/*.{html,njk}"],
+  content: ['./_site/**/*.html',"./src/**/*.{html,njk}"],
+  purge: false, // This is handled through postcss.config.js
   theme: {
     extend: {},
   },
-  plugins: [],
+	plugins: [require('@tailwindcss/forms'), require('@tailwindcss/typography')],
 };

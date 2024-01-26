@@ -7,10 +7,10 @@ const db = new JSONdb('./storage.json');
 
 async function getFromDB(passageRef) {
 
-    console.log(`looking for passage ${passageRef}`)
+    // console.log(`looking for passage ${passageRef}`)
 
     if (db.has(passageRef)) {
-        console.log(`hit in db`)
+        // console.log(`hit in db`)
         return db.get(passageRef)
     } else {
 
@@ -519,7 +519,7 @@ module.exports = async function () {
     let url = `https://script.googleusercontent.com/macros/echo?user_content_key=pJxiVsEgfU9a8HBcrsLaqYqrok0B1qUxaqmg-vPqqKveL7r9ZYUIY0aviOLZGkWhLpP0IOqYNQeDQM-eIHlMmkPh3-b6sR_wm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnHXMYlyyKu_9pp6ApeG_DtIsCkQpiVUyEx9PHZ_YX2aatnYgACx062kT63XOTamE1rC46kzBuvBF_wctXcB0FXmXIqb0LUATbQ&lib=MnqVGq-HVhHeU1Szj8IF3gkwZ7ki6rcAH`
 
     const response = await EleventyFetch(url, {
-        duration: "1d",
+        duration: "1s",
         type: "json"
     })
 
@@ -532,11 +532,11 @@ module.exports = async function () {
         // console.log(element.optionalPassages)
 
         let mainPassageText = convertPassageToApiRef(element.passage)
-console.log(mainPassageText)
+// console.log(mainPassageText)
 
         const mainPassage = await getFromDB(mainPassageText)
 
-        console.log(mainPassage)
+        // console.log(mainPassage)
 
                 // element.mainPassage = element.mainPassage || []
                 element.mainPassage  = mainPassage
@@ -596,20 +596,27 @@ console.log(mainPassageText)
         const longBookName = pasage.slice(0, pasage.lastIndexOf(" "))
         const parsedRef = bcv.parse(pasage).osis()
 
+
+        console.log(parsedRef)
         const [fromO, toO] = parsedRef.split("-")
 
 
 
 
         let from = fromO.slice(fromO.indexOf("."))
-        let to = toO.slice(toO.indexOf("."))
-
-
 
         const nameref = bookRefs.data.filter(e => { return e.name.toUpperCase() == longBookName.trim().toUpperCase() })[0].id
+        
+        if (toO != undefined) {
+        
+            let to = toO.slice(toO.indexOf("."))
+            return biblesOrgRef = `${nameref}${from}-${nameref}${to}`
+        }
+        else {
+            return biblesOrgRef = `${nameref}${from}`
+        }
+                
 
-        const biblesOrgRef = `${nameref}${from}-${nameref}${to}`
-        return biblesOrgRef
     }
 
 

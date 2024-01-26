@@ -1,0 +1,29 @@
+[
+    {
+    "title": "Week 1",
+    "weekNumber": 1,
+    "weekOfYear": 6,
+    "startDate": "2024/01/29",
+    "endDate" : "2024/02/04",
+    "scripture": "Genesis 1,2",
+    "sermonTitle": ""
+    },
+    {
+        "title": "Week 2",
+        "weekNumber": 2,
+        "weekOfYear": 7,
+        "startDate": "2024/02/05",
+        "endDate" : "2024/02/11",
+        "scripture": "Genesis 3",
+        "sermonTitle": ""
+        },
+        {
+            "title": "Week 3",
+            "weekNumber": 3,
+            "weekOfYear": 8,
+            "startDate": "2024/02/12",
+            "endDate" : "2024/02/18",
+            "scripture": "Genesis 12,15,17",
+            "sermonTitle": ""
+            }
+]
