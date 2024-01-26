@@ -74,7 +74,7 @@ permalink: "week/{{ week.weekNumber | slugify }}/"
     Alpine.data('isDateToday', (date) => {
             console.log(date)
             let d1 = new Date(date)
-            let d2 = new Date(2024,0,30)
+            let d2 = new Date()
 
             return (d1.getFullYear() == d2.getFullYear() && d1.getMonth() == d2.getMonth() && d1.getDate() == d2.getDate() )
             
