@@ -25,16 +25,16 @@
     <link rel="apple-touch-icon" href="icon.png">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#FFFFFF">
-    <script>
+    {# <script>
         if ("serviceWorker" in navigator) {
             navigator
                 .serviceWorker
                 .register("/service-worker.js");
         }
-    </script>
-
+    </script> #}
+    
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-
+{# <script defer  type="module" src="/js/alpine.js"/>  #}
     {%- set css -%}
     {%- include "../../../style.css" -%}
     {%- endset -%}

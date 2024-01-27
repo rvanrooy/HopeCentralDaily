@@ -37,7 +37,7 @@ module.exports = async function () {
     let url = `https://script.google.com/macros/s/AKfycbygZVcg1vR9hAWIQfGIOUVYZB3tCq_6hPX-r9O1b8DV2xixoCjhqUhG65GS7qVx8hDXfg/exec`
 
     const response = await EleventyFetch(url, {
-        duration: "1s",
+        duration: "1d",
         type: "json"
     })
 

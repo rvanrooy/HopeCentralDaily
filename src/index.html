@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <!--
   Heads up! 👋
 
@@ -10,101 +9,70 @@ layout: default
     - @tailwindcss/forms
 -->
 
-<header class="bg-gray-50">
-  <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
-    <div class="flex items-center justify-end gap-4">
-      <div class="flex items-center gap-4">
-        <div class="relative">
-          <label class="sr-only" for="search"> Search </label>
-
-        </div>
-      </div>
-
-      <span aria-hidden="true" class="block h-6 w-px rounded-full bg-gray-200"></span>
-
-      
-    </div>
-
-    <div class="mt-8">
-      <h1 class="text-2xl font-bold text-lime-800 sm:text-3xl"> {{ metadata.title }}</h1>
-
-      <p class="mt-1.5 text-sm text-gray-500">
-        {{ metadata.description }}
-      </p>
-    </div>
-  </div>
-</header>
 
 
+<main class="container mx-auto flex flex-col flex-wrap items-center px-6 pt-12 md:flex-row md:pt-24 dark:bg-slate-800 bg-slate-100">
 
-
-<main class="container mx-auto flex flex-col flex-wrap items-center px-6 pt-12 md:flex-row md:pt-24">
-
-
-<div
-  class="relative flex flex-col w-full h-full overflow-scroll text-gray-700 bg-white shadow-md rounded-xl bg-clip-border">
-  <table class="w-full text-left table-auto min-w-max">
-    <thead>
-      <tr>
-        <th class="p-4 border-b border-blue-gray-100 bg-blue-gray-50">
-          <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
+  <div
+  class="relative flex flex-col w-full h-full overflow-scroll text-gray-700 dark:text-slate-400  dark:bg-slate-700 bg-slate-50 shadow-md rounded-xl bg-clip-border">
+    <table class="w-full text-left table-auto min-w-max">
+      <thead>
+        <tr>
+          <th class="p-4 border-b border-gray-100 dark:border-slate-800 bg-gray-50  dark:bg-gray-600">
+            <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
             Day
           </p>
-        </th>
-        <th class="p-4 border-b border-blue-gray-100 bg-blue-gray-50">
-          <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
+          </th>
+          <th class="p-4 border-b border-gray-100 dark:border-slate-800 bg-gray-50  dark:bg-gray-600">
+            <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
             Passage
           </p>
-        </th>
-        <th class="p-4 border-b border-blue-gray-100 bg-blue-gray-50">
-          <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
+          </th>
+          <th class="p-4 border-b border-gray-100 dark:border-slate-800 bg-gray-50  dark:bg-gray-600">
+            <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
             Date
           </p>
-        </th>
-        <th class="p-4 border-b border-blue-gray-100 bg-blue-gray-50">
-          <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70"></p>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-    {%  for reading in readings%}
-      <tr>
-        <td class="p-4 border-b border-blue-gray-50">
-          <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
-           
-                  <a href="readings/{{ reading.day }}/" class="relative block">
+          </th>
+         
+        </tr>
+      </thead>
+      <tbody>
+        {%  for reading in readings%}
+          <tr>
+            <td class="p-4 border-b border-gray-100 dark:border-slate-600 bg-gray-50  dark:bg-gray-600">
+              <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
+
+                <a href="readings/{{ reading.day }}/" class="relative block">
                   Day {{ reading.day }}
-                  </a>
-                  
-          </p>
-        </td>
-        <td class="p-4 border-b border-blue-gray-50">
-          <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
-           
-                      <a href="readings/{{ reading.day }}/" class="relative block">
-                    {{ reading.passage }} - {{ reading.theme  }}  
-                    </a>
-                 
-          </p>
-        </td>
-        <td class="p-4 border-b border-blue-gray-50">
-          <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
-           
+                </a>
+
+              </p>
+            </td>
+            <td class="p-4 border-b border-gray-100 dark:border-slate-600 bg-gray-50  dark:bg-gray-600">
+              <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
+
+                <a href="readings/{{ reading.day }}/" class="relative block">
+                  {{ reading.passage }} - {{ reading.theme  }}
+                </a>
+
+              </p>
+            </td>
+            <td class="p-4 border-b border-gray-100 dark:border-slate-600 bg-gray-50  dark:bg-gray-600">
+              <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
+
                 {{ reading.date | date: "%Y-%m-%d"}}
-             
-          </p>
-        </td>
-       
-      </tr>
-          {% endfor %}
-    </tbody>
-  </table>
-</div>
+
+              </p>
+            </td>
+
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
 
 
+ 
 
+  </div>
 
 </main>
-
-
-
