@@ -85,7 +85,7 @@ eleventyConfig.addPlugin(EleventyRenderPlugin);
   // Watch targets
   eleventyConfig.addWatchTarget("./src/styles/");
 
-  var pathPrefix = "HopeCentralDaily";
+  var pathPrefix = "/HopeCentralDaily/";
   if (process.env.GITHUB_REPOSITORY) {
     pathPrefix = process.env.GITHUB_REPOSITORY.split('/')[1];
   }
