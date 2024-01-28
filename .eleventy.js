@@ -50,8 +50,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter('datefmtstr', (contentDate) => {
 
   
-		return format(new Date(contentDate), "d LLL");
-  
+		// return format(new Date(contentDate), "d LLL");
+    return format(new Date(contentDate), 'd LLL', { timeZone: 'GMT+2' });
 	});
 
   eleventyConfig.addFilter("postDate", (dateObj) => {
