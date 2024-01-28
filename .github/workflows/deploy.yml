@@ -24,6 +24,8 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    env:
+      TZ: 'Africa/Johannesburg'  # Set your desired timezone
     steps:
       - name: Checkout
         uses: actions/checkout@v3
