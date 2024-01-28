@@ -13,7 +13,7 @@ permalink: "week/{{ week.weekNumber | slugify }}/"
 
         {% for listweek in weeks %}
 
-            <li class="relative mb-6 sm:mb-0">
+            <li class="relative mb-6 sm:mb-0 min-w-max">
                 <div class="flex items-center">
                     <a href="{{ ['/week/',listweek.weekNumber] | join | url }}">
                         <div class="z-10 flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full ring-0 {{ "ring-green-400 dark:ring-green-300" if week.weekNumber == listweek.weekNumber else "ring-white dark:ring-slate-700" }} dark:bg-blue-900 sm:ring-8  shrink-0">
@@ -38,7 +38,7 @@ permalink: "week/{{ week.weekNumber | slugify }}/"
 
             </ol>
 
-            <ol class="relative border-s border-gray-200 dark:border-gray-700 mt-12">
+            <ol class="relative border-s border-gray-200 dark:border-gray-700 mt-12 min-w-max">
 
                 {%  for reading in readings%}
 
