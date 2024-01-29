@@ -6,12 +6,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Basic Alpine.js Page</title>
+    <style>
+        body {
+            background-color: black;
+            color: gray; /* Optionally, set text color to white for better visibility on a black background */
+            margin: 0;
+            padding: 20px; /* Optional padding for content */
+            font-family: Arial, sans-serif; /* Optional font-family */
+        }
+    </style>
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2/dist/alpine.min.js" defer></script>
 </head>
-<body x-data="{ message: 'Hello, Alpine.js!' }" x-init="init()">
+<body x-data="{ message: 'Hope Central Devotions' }" x-init="init()">
 
     <div class="container mx-auto my-8 text-center">
-        <h1 class="mb-4 text-3xl font-bold">Basic Alpine.js Page</h1>
+        <h1 class="mb-4 text-3xl font-bold">Redirecting to today's passage</h1 >
+        <h1 class="mb-4 text-3xl font-bold text-slate-200">click <a href="{{ '/' | url }}"> here</a> to go to the homepage</h1>
         <p class="text-lg" x-text="message"></p>
     </div>
 
@@ -48,7 +58,7 @@
                
                
                window.location.href = `${path}/reading/${this.formattedDate}/`; 
-            // window.location.href = `/redirect/${this.formattedDate}/`; 
+            
         }
     </script>
 </body>
