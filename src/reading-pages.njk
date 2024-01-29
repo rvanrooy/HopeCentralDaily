@@ -4,7 +4,7 @@ pagination:
     data: readings 
     size: 1 
     alias: reading 
-permalink: "readings/{{ reading.day | slugify }}/" 
+permalink: "reading/{{ reading.date | datefmtstr | slugify }}/" 
 ---
 
 <div class="flex flex-col items-center px-5 py-8 mx-auto max-w-7xl sm:px-6 lg:px-8">

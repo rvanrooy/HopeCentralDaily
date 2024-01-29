@@ -96,7 +96,7 @@ eleventyConfig.addPlugin(EleventyRenderPlugin);
       input: "src",
       layouts: '_includes/layouts',
     },
-    pathPrefix
+    pathPrefix: "HopeCentralDaily"
   }
 };
 

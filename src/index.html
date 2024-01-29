@@ -11,24 +11,24 @@ layout: default
 
 
 
-<main class="container mx-auto flex flex-col flex-wrap items-center px-6 pt-12 md:flex-row dark:bg-slate-800 bg-slate-100">
+<main class="container flex flex-col flex-wrap items-center px-6 pt-12 mx-auto bg-gray-300 md:flex-row dark:bg-slate-800">
 
   <div
-  class="relative flex flex-col w-full h-full overflow-scroll text-gray-700 dark:text-slate-400  dark:bg-slate-700 bg-slate-50 shadow-md rounded-xl bg-clip-border">
+  class="relative flex flex-col w-full h-full overflow-auto text-gray-700 shadow-md dark:text-slate-200 dark:bg-slate-700 bg-slate-50 rounded-xl bg-clip-border">
     <table class="w-full text-left table-auto min-w-max">
       <thead>
         <tr>
-          <th class="p-4 border-b border-gray-100 dark:border-slate-800 bg-gray-50  dark:bg-gray-600">
+          <th class="p-4 border-b border-gray-100 dark:border-slate-800 bg-gray-50 dark:bg-slate-700">
             <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
             Day
           </p>
           </th>
-          <th class="p-4 border-b border-gray-100 dark:border-slate-800 bg-gray-50  dark:bg-gray-600">
+          <th class="p-4 border-b border-gray-100 dark:border-slate-800 bg-gray-50 dark:bg-slate-700">
             <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
             Passage
           </p>
           </th>
-          <th class="p-4 border-b border-gray-100 dark:border-slate-800 bg-gray-50  dark:bg-gray-600">
+          <th class="p-4 border-b border-gray-100 dark:border-slate-800 bg-gray-50 dark:bg-slate-700">
             <p class="block font-sans text-sm antialiased font-normal leading-none text-blue-gray-900 opacity-70">
             Date
           </p>
@@ -39,7 +39,7 @@ layout: default
       <tbody>
         {%  for reading in readings%}
           <tr>
-            <td class="p-4 border-b border-gray-100 dark:border-slate-600 bg-gray-50  dark:bg-gray-600">
+            <td class="p-4 border-b border-gray-100 dark:border-slate-600 bg-gray-50 dark:bg-slate-700">
               <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
 
                 <a href="readings/{{ reading.day }}/" class="relative block">
@@ -48,7 +48,7 @@ layout: default
 
               </p>
             </td>
-            <td class="p-4 border-b border-gray-100 dark:border-slate-600 bg-gray-50  dark:bg-gray-600">
+            <td class="p-4 border-b border-gray-100 dark:border-slate-600 bg-gray-50 dark:bg-slate-700">
               <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
 
                 <a href="readings/{{ reading.day }}/" class="relative block">
@@ -57,7 +57,7 @@ layout: default
 
               </p>
             </td>
-            <td class="p-4 border-b border-gray-100 dark:border-slate-600 bg-gray-50  dark:bg-gray-600">
+            <td class="p-4 border-b border-gray-100 dark:border-slate-600 bg-gray-50 dark:bg-slate-700">
               <p class="block font-sans text-sm antialiased font-normal leading-normal text-blue-gray-900">
 
                 {{ reading.date | date: "%Y-%m-%d"}}

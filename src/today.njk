@@ -1,0 +1,55 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Alpine.js Page</title>
+    <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2/dist/alpine.min.js" defer></script>
+</head>
+<body x-data="{ message: 'Hello, Alpine.js!' }" x-init="init()">
+
+    <div class="container mx-auto my-8 text-center">
+        <h1 class="mb-4 text-3xl font-bold">Basic Alpine.js Page</h1>
+        <p class="text-lg" x-text="message"></p>
+    </div>
+
+    <script>
+        function init() {
+
+
+            console.log('Function executed on page load');
+            // You can perform additional actions or modifications here
+            
+            const currentPath = window.location.pathname
+            console.log(currentPath)
+            let path = ""
+            let paths = currentPath.split("/")
+            if (paths.length == 4 ) {
+                // need to add the prefix
+                path=`/${paths[1]}`
+            }
+            
+            
+            const currentDate = new Date();
+
+            // Format the date using date-fns
+            const month = currentDate.toLocaleString('default', { month: 'short' });
+
+            console.log(month);
+
+            // Set the formatted date to Alpine.js variable
+            this.formattedDate = `${currentDate.getDate()}-${month}`;
+
+            console.log("redirect");
+
+            // Redirect to the URL with the formatted date
+               
+               
+               window.location.href = `${path}/reading/${this.formattedDate}/`; 
+            // window.location.href = `/redirect/${this.formattedDate}/`; 
+        }
+    </script>
+</body>
+</html>

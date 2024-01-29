@@ -15,3 +15,7 @@
   margin-right: 3px;
 
 }
+
+.dark .v {
+  color: #fff;  /* Change this to your desired dark mode color */
+}
