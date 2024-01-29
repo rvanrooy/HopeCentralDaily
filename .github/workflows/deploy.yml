@@ -26,6 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: 'Africa/Johannesburg'  # Set your desired timezone
+      locale: 'en_ZA'
     steps:
       - name: Checkout
         uses: actions/checkout@v3

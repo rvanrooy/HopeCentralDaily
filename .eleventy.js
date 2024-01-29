@@ -4,7 +4,7 @@ const dumpFilter = require("@jamshop/eleventy-filter-dump");
 const {parse} = require("csv-parse/sync");
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
 const pluginWebc = require("@11ty/eleventy-plugin-webc");
-const { format } = require('date-fns');
+const { format, enZA } = require('date-fns');
 const postCss = require('postcss');
 const tailwind = require('tailwindcss');
 const { DateTime } = require("luxon");
@@ -52,7 +52,7 @@ module.exports = function(eleventyConfig) {
   
 		// return format(new Date(contentDate), "d LLL");
     console.log(contentDate)
-    return format(new Date(contentDate), 'd LLL', { timeZone: 'GMT+2' });
+    return format(new Date(contentDate), 'd LLL', { timeZone: 'GMT+2', locale: enZA });
 	});
 
   eleventyConfig.addFilter("postDate", (dateObj) => {
