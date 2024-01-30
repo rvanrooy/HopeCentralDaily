@@ -597,7 +597,7 @@ module.exports = async function () {
         const parsedRef = bcv.parse(pasage).osis()
 
 
-        console.log(parsedRef)
+       
         const [fromO, toO] = parsedRef.split("-")
 
 

@@ -5,6 +5,7 @@
 * [Feat] Add control to select column format
 * [UI] Better menu on small screens
 * [UI] added favicon
+* [Change] Added ESV copyright notification
 
 
 2024-01-29

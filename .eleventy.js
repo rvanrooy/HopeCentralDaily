@@ -52,7 +52,7 @@ module.exports = function(eleventyConfig) {
 
   
 		// return format(new Date(contentDate), "d LLL");
-    console.log(contentDate)
+    
     return format(new Date(contentDate), 'd LLL', { timeZone: 'GMT+2', locale: enZA });
 	});
 

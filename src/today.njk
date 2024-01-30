@@ -29,11 +29,11 @@
         function init() {
 
 
-            console.log('Function executed on page load');
+           
             // You can perform additional actions or modifications here
             
             const currentPath = window.location.pathname
-            console.log(currentPath)
+            
             let path = ""
             let paths = currentPath.split("/")
             if (paths.length == 4 ) {
@@ -52,7 +52,7 @@
             // Set the formatted date to Alpine.js variable
             this.formattedDate = `${currentDate.getDate()}-${month}`.toLowerCase();
 
-            console.log("redirect");
+            
 
             // Redirect to the URL with the formatted date
                

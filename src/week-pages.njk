@@ -62,10 +62,10 @@ permalink: "week/{{ week.weekNumber | slugify }}/"
 
         <script>
             document.addEventListener('alpine:init', () => {
-                console.log("hello from alpine")
+                
 
                 Alpine.data('isDateToday', (date) => {
-                    console.log(date)
+                    
                     let d1 = new Date(date)
                     let d2 = new Date()
 
