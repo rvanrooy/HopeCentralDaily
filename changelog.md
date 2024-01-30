@@ -2,6 +2,7 @@
 2024-01-30
 
 * [Feat] Add controls to increase text size
+* [Feat] Add control to select column format
 * [UI] Better menu on small screens
 * [UI] added favicon
 

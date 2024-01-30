@@ -43,9 +43,20 @@
         <script defer type="text/javascript" src="{{ '/js/alpine.js' | url }}"></script>
     </head>
 
-    <body x-data="{'darkMode': false, fontSize: 16, isNavVisible: false  }"    x-init="
+    <body x-data="{'darkMode': false, 'fontSize': 16, 'isNavVisible': false, 'useColumns' : true }"    x-init="
          darkMode = JSON.parse(localStorage.getItem('darkMode'));
-         $watch('darkMode', value => localStorage.setItem('darkMode', JSON.stringify(value)))" 
+         fontSize = JSON.parse(localStorage.getItem('fontSize'));
+         useColumns = JSON.parse(localStorage.getItem('useColumns'));
+
+            // Check if fontSize is null or undefined, and set it to a default value (e.g., 16)
+           if (fontSize === null || fontSize === undefined) {
+              fontSize = 16;
+           }
+
+         $watch('darkMode', value => localStorage.setItem('darkMode', JSON.stringify(value)));
+         $watch('fontSize', value => localStorage.setItem('fontSize', JSON.stringify(value)));
+         $watch('useColumns', value => localStorage.setItem('useColumns', JSON.stringify(value)))"
+          
          class="font-sans leading-normal tracking-normal text-gray-900 dark:bg-slate-800 dark:text-slate-50" >
 
        
