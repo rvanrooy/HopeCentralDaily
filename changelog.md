@@ -1,4 +1,11 @@
 
+2024-01-30
+
+* [Feat] Add controls to increase text size
+* [UI] Better menu on small screens
+* [UI] added favicon
+
+
 2024-01-29
 
 * [Feat] /today now links to the current dates reading

@@ -39,6 +39,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({
     './node_modules/alpinejs/dist/cdn.js': './js/alpine.js',
+    './node_modules/flowbite/dist/flowbite.min.js': './js/flowbite.min.js'
   })
   
   // Date filters

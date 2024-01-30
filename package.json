@@ -54,6 +54,7 @@
     "bible-english": "^1.0.3",
     "bible-passage-reference-parser": "^2.0.1",
     "csv-parse": "^5.5.3",
+    "flowbite": "^2.2.1",
     "luxon": "^3.4.4",
     "node-fetch": "^2.7.0",
     "simple-json-db": "^2.0.0"

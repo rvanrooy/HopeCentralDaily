@@ -14,19 +14,19 @@
         <link
       rel="apple-touch-icon"
       sizes="180x180"
-      href="{{ '/apple-touch-icon.png' | url }}"
+      href="{{ '/hc_ico.png' | url }}"
 />
         <link
       rel="icon"
       type="image/png"
       sizes="32x32"
-      href="{{ '/favicon-32x32.png' | url }}"
+      href="{{ '/hc_ico.png' | url }}"
 />
         <link
       rel="icon"
       type="image/png"
       sizes="16x16"
-      href="{{ '/favicon-16x16.png' | url }}"
+      href="{{ '/hc_ico.png' | url }}"
 />
         <link rel="manifest" href="{{ '/site.webmanifest' | url }}"/>
 
@@ -43,10 +43,10 @@
         <script defer type="text/javascript" src="{{ '/js/alpine.js' | url }}"></script>
     </head>
 
-    <body x-data="{'darkMode': false}" x-init="
+    <body x-data="{'darkMode': false, fontSize: 16, isNavVisible: false  }"    x-init="
          darkMode = JSON.parse(localStorage.getItem('darkMode'));
          $watch('darkMode', value => localStorage.setItem('darkMode', JSON.stringify(value)))" 
-         class="font-sans leading-normal tracking-normal dark:bg-slate-800 dark:text-slate-50 text-gray-900" >
+         class="font-sans leading-normal tracking-normal text-gray-900 dark:bg-slate-800 dark:text-slate-50" >
 
        
 
@@ -59,6 +59,9 @@
   </div>
   </div>
   
+
+  <script src="{{ '/js/flowbite.min.js' | url }}"></script>
+
 </body>
   
 </html>
