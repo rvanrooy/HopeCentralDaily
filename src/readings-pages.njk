@@ -73,17 +73,22 @@ permalink: "readings/{{ reading.day | slugify }}/"
         <div class="inline-flex items-center justify-center flex-shrink-0 w-20 h-20 rounded-full text-neutral-600 bg-slate-200 dark:bg-slate-800 sm:mr-10">
             <img src="{{ '/binoculars-safari-svgrepo-com.svg' | url }}"/>
         </div>
+
         <div class="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md dark:text-slate-300">
             <h2 class=" dark:text-slate-300">Optional Passages</h2>
 
-            <div  :class="{ 'justify-center text-left dark:text-slate-300': true, 'lg:columns-2': useColumns }" :style="{ 'font-size': fontSize + 'px' }">
-                {{ reading.passages[0].passage.data.content | safe }}
+            {% for passage in reading.passages %}
+                <div  :class="{ 'justify-center text-left dark:text-slate-300': true, 'lg:columns-2': useColumns }" :style="{ 'font-size': fontSize + 'px' }">
+                    <p  class="mt-12 font-bold" :style="{ 'font-size': fontSize + 'px' }">
+                        {{ passage.passage.data.reference | safe }}</p>
+                    
+                    {{ passage.passage.data.content | safe }}
 
-                {% set optionalPassagesArray = reading.optionalPassages.split(",")%}
-                {% for passage in optionalPassagesArray%}
-                    {{ passage | safe }},
-                {% endfor %}
-            </div>
+                    
+              
+                </div>
+            {% endfor %}
+            
         </div>
 
     </div>

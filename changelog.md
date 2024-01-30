@@ -6,6 +6,7 @@
 * [UI] Better menu on small screens
 * [UI] added favicon
 * [Change] Added ESV copyright notification
+* [Fix] Show all optional passages
 
 
 2024-01-29
