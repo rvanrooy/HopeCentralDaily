@@ -519,7 +519,7 @@ module.exports = async function () {
     let url = `https://script.googleusercontent.com/macros/echo?user_content_key=pJxiVsEgfU9a8HBcrsLaqYqrok0B1qUxaqmg-vPqqKveL7r9ZYUIY0aviOLZGkWhLpP0IOqYNQeDQM-eIHlMmkPh3-b6sR_wm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnHXMYlyyKu_9pp6ApeG_DtIsCkQpiVUyEx9PHZ_YX2aatnYgACx062kT63XOTamE1rC46kzBuvBF_wctXcB0FXmXIqb0LUATbQ&lib=MnqVGq-HVhHeU1Szj8IF3gkwZ7ki6rcAH`
 
     const response = await EleventyFetch(url, {
-        duration: "1d",
+        duration: "0s",
         type: "json"
     })
 
@@ -540,6 +540,17 @@ module.exports = async function () {
 
                 // element.mainPassage = element.mainPassage || []
                 element.mainPassage  = mainPassage
+
+
+        let memoryVerse = element.memoryVerse    
+        
+        if (memoryVerse) {
+            const memBiblesOrgRef = convertPassageToApiRef(memoryVerse)
+
+            const memPassage = await getFromDB(memBiblesOrgRef)
+    
+                element.memoryPassage = memPassage
+        }
 
         let passages = element.optionalPassages.split(",")
 
