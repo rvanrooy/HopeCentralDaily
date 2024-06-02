@@ -16553,5 +16553,2094 @@
                 "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4d96f192-2ce9-4ed2-b377-2a69adfe1f6a\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
             }
         }
+    },
+    "EZK.34.1-EZK.34.10": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.34.1-EZK.34.10",
+                "orgId": "EZK.34.1-EZK.34.10",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.34"
+                ],
+                "reference": "Ezekiel 34:1-10",
+                "content": "<p class=\"s1\">Prophecy Against the Shepherds of Israel</p><p class=\"p\"><span data-number=\"1\" data-sid=\"EZK 34:1\" class=\"v\">1</span>The word of the <span class=\"nd\">Lord</span> came to me: <span data-number=\"2\" data-sid=\"EZK 34:2\" class=\"v\">2</span>“Son of man, prophesy against the shepherds of Israel; prophesy, and say to them, even to the shepherds, Thus says the Lord <span class=\"nd\">God</span>: Ah, shepherds of Israel who have been feeding yourselves! Should not shepherds feed the sheep? <span data-number=\"3\" data-sid=\"EZK 34:3\" class=\"v\">3</span>You eat the fat, you clothe yourselves with the wool, you slaughter the fat ones, but you do not feed the sheep. <span data-number=\"4\" data-sid=\"EZK 34:4\" class=\"v\">4</span>The weak you have not strengthened, the sick you have not healed, the injured you have not bound up, the strayed you have not brought back, the lost you have not sought, and with force and harshness you have ruled them. <span data-number=\"5\" data-sid=\"EZK 34:5\" class=\"v\">5</span>So they were scattered, because there was no shepherd, and they became food for all the wild beasts. My sheep were scattered; <span data-number=\"6\" data-sid=\"EZK 34:6\" class=\"v\">6</span>they wandered over all the mountains and on every high hill. My sheep were scattered over all the face of the earth, with none to search or seek for them.</p><p class=\"p\"><span data-number=\"7\" data-sid=\"EZK 34:7\" class=\"v\">7</span>“Therefore, you shepherds, hear the word of the <span class=\"nd\">Lord</span>: <span data-number=\"8\" data-sid=\"EZK 34:8\" class=\"v\">8</span>As I live, declares the Lord <span class=\"nd\">God</span>, surely because my sheep have become a prey, and my sheep have become food for all the wild beasts, since there was no shepherd, and because my shepherds have not searched for my sheep, but the shepherds have fed themselves, and have not fed my sheep, <span data-number=\"9\" data-sid=\"EZK 34:9\" class=\"v\">9</span>therefore, you shepherds, hear the word of the <span class=\"nd\">Lord</span>: <span data-number=\"10\" data-sid=\"EZK 34:10\" class=\"v\">10</span>Thus says the Lord <span class=\"nd\">God</span>, Behold, I am against the shepherds, and I will require my sheep at their hand and put a stop to their feeding the sheep. No longer shall the shepherds feed themselves. I will rescue my sheep from their mouths, that they may not be food for them.</p>",
+                "verseCount": 10,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1d7d81cf-4c11-47a0-99fa-bce03c408ded');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1d7d81cf-4c11-47a0-99fa-bce03c408ded'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "1d7d81cf-4c11-47a0-99fa-bce03c408ded",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1d7d81cf-4c11-47a0-99fa-bce03c408ded'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1d7d81cf-4c11-47a0-99fa-bce03c408ded\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.34.11-EZK.34.16": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.34.11-EZK.34.16",
+                "orgId": "EZK.34.11-EZK.34.16",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.34"
+                ],
+                "reference": "Ezekiel 34:11-16",
+                "content": "<p class=\"s1\">The Lord <span class=\"nd\">God</span> Will Seek Them Out</p><p class=\"p\"><span data-number=\"11\" data-sid=\"EZK 34:11\" class=\"v\">11</span>“For thus says the Lord <span class=\"nd\">God</span>: Behold, I, I myself will search for my sheep and will seek them out. <span data-number=\"12\" data-sid=\"EZK 34:12\" class=\"v\">12</span>As a shepherd seeks out his flock when he is among his sheep that have been scattered, so will I seek out my sheep, and I will rescue them from all places where they have been scattered on a day of clouds and thick darkness. <span data-number=\"13\" data-sid=\"EZK 34:13\" class=\"v\">13</span>And I will bring them out from the peoples and gather them from the countries, and will bring them into their own land. And I will feed them on the mountains of Israel, by the ravines, and in all the inhabited places of the country. <span data-number=\"14\" data-sid=\"EZK 34:14\" class=\"v\">14</span>I will feed them with good pasture, and on the mountain heights of Israel shall be their grazing land. There they shall lie down in good grazing land, and on rich pasture they shall feed on the mountains of Israel. <span data-number=\"15\" data-sid=\"EZK 34:15\" class=\"v\">15</span>I myself will be the shepherd of my sheep, and I myself will make them lie down, declares the Lord <span class=\"nd\">God</span>. <span data-number=\"16\" data-sid=\"EZK 34:16\" class=\"v\">16</span>I will seek the lost, and I will bring back the strayed, and I will bind up the injured, and I will strengthen the weak, and the fat and the strong I will destroy. I will feed them in justice.</p>",
+                "verseCount": 6,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('38d4c9bc-eea5-4974-b351-1be46b7c055b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='38d4c9bc-eea5-4974-b351-1be46b7c055b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "38d4c9bc-eea5-4974-b351-1be46b7c055b",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('38d4c9bc-eea5-4974-b351-1be46b7c055b'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=38d4c9bc-eea5-4974-b351-1be46b7c055b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "JER.23.1": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "JER.23.1",
+                "orgId": "JER.23.1",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "JER",
+                "chapterIds": [
+                    "JER.23"
+                ],
+                "reference": "Jeremiah 23:1",
+                "content": "<p class=\"s1\">The Righteous Branch</p><p class=\"p\"><span data-number=\"1\" data-sid=\"JER 23:1\" class=\"v\">1</span>“Woe to the shepherds who destroy and scatter the sheep of my pasture!” declares the <span class=\"nd\">Lord</span>. </p>",
+                "verseCount": 1,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('89314a34-fcc6-435e-86df-10f4828642eb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='89314a34-fcc6-435e-86df-10f4828642eb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "89314a34-fcc6-435e-86df-10f4828642eb",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('89314a34-fcc6-435e-86df-10f4828642eb'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=89314a34-fcc6-435e-86df-10f4828642eb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.34.23-EZK.34.24": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.34.23-EZK.34.24",
+                "orgId": "EZK.34.23-EZK.34.24",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.34"
+                ],
+                "reference": "Ezekiel 34:23-24",
+                "content": "<p class=\"p\"><span data-number=\"23\" data-sid=\"EZK 34:23\" class=\"v\">23</span>And I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd. <span data-number=\"24\" data-sid=\"EZK 34:24\" class=\"v\">24</span>And I, the <span class=\"nd\">Lord</span>, will be their God, and my servant David shall be prince among them. I am the <span class=\"nd\">Lord</span>; I have spoken.</p>",
+                "verseCount": 2,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6f39e8fb-7aed-45d4-990a-5dbf039e5858');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6f39e8fb-7aed-45d4-990a-5dbf039e5858'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "6f39e8fb-7aed-45d4-990a-5dbf039e5858",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6f39e8fb-7aed-45d4-990a-5dbf039e5858'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6f39e8fb-7aed-45d4-990a-5dbf039e5858\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "PSA.23.1-PSA.23.4": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "PSA.23.1-PSA.23.4",
+                "orgId": "PSA.23.1-PSA.23.4",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "PSA",
+                "chapterIds": [
+                    "PSA.23"
+                ],
+                "reference": "Psalm 23:1-4",
+                "content": "<p class=\"s1\">The <span class=\"nd\">Lord</span> Is My Shepherd</p><p class=\"d\">A Psalm of David.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"1\" data-sid=\"PSA 23:1\" class=\"v\">1</span>The <span class=\"nd\">Lord</span> is my shepherd; I shall not want.</p><p class=\"q2\"><span data-number=\"2\" data-sid=\"PSA 23:2\" class=\"v\">2</span>He makes me lie down in green pastures.</p><p data-vid=\"PSA 23:2\" class=\"q1\">He leads me beside still waters.</p><p class=\"q2\"><span data-number=\"3\" data-sid=\"PSA 23:3\" class=\"v\">3</span>He restores my soul.</p><p data-vid=\"PSA 23:3\" class=\"q1\">He leads me in paths of righteousness</p><p data-vid=\"PSA 23:3\" class=\"q2\">for his name’s sake.</p><p class=\"b\"></p><p class=\"q1\"><span data-number=\"4\" data-sid=\"PSA 23:4\" class=\"v\">4</span>Even though I walk through the valley of the shadow of death,</p><p data-vid=\"PSA 23:4\" class=\"q2\">I will fear no evil,</p><p data-vid=\"PSA 23:4\" class=\"q1\">for you are with me;</p><p data-vid=\"PSA 23:4\" class=\"q2\">your rod and your staff,</p><p data-vid=\"PSA 23:4\" class=\"q2\">they comfort me.</p>",
+                "verseCount": 4,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('beeebf97-b175-4fa8-ac24-d3aaf9ed1acf');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='beeebf97-b175-4fa8-ac24-d3aaf9ed1acf'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "beeebf97-b175-4fa8-ac24-d3aaf9ed1acf",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('beeebf97-b175-4fa8-ac24-d3aaf9ed1acf'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=beeebf97-b175-4fa8-ac24-d3aaf9ed1acf\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.34.17-EZK.34.24": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.34.17-EZK.34.24",
+                "orgId": "EZK.34.17-EZK.34.24",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.34"
+                ],
+                "reference": "Ezekiel 34:17-24",
+                "content": "<p class=\"p\"><span data-number=\"17\" data-sid=\"EZK 34:17\" class=\"v\">17</span>“As for you, my flock, thus says the Lord <span class=\"nd\">God</span>: Behold, I judge between sheep and sheep, between rams and male goats. <span data-number=\"18\" data-sid=\"EZK 34:18\" class=\"v\">18</span>Is it not enough for you to feed on the good pasture, that you must tread down with your feet the rest of your pasture; and to drink of clear water, that you must muddy the rest of the water with your feet? <span data-number=\"19\" data-sid=\"EZK 34:19\" class=\"v\">19</span>And must my sheep eat what you have trodden with your feet, and drink what you have muddied with your feet?</p><p class=\"p\"><span data-number=\"20\" data-sid=\"EZK 34:20\" class=\"v\">20</span>“Therefore, thus says the Lord <span class=\"nd\">God</span> to them: Behold, I, I myself will judge between the fat sheep and the lean sheep. <span data-number=\"21\" data-sid=\"EZK 34:21\" class=\"v\">21</span>Because you push with side and shoulder, and thrust at all the weak with your horns, till you have scattered them abroad, <span data-number=\"22\" data-sid=\"EZK 34:22\" class=\"v\">22</span>I will rescue my flock; they shall no longer be a prey. And I will judge between sheep and sheep. <span data-number=\"23\" data-sid=\"EZK 34:23\" class=\"v\">23</span>And I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd. <span data-number=\"24\" data-sid=\"EZK 34:24\" class=\"v\">24</span>And I, the <span class=\"nd\">Lord</span>, will be their God, and my servant David shall be prince among them. I am the <span class=\"nd\">Lord</span>; I have spoken.</p>",
+                "verseCount": 8,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d2302a0f-812a-4266-9c78-9a520bed5686');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d2302a0f-812a-4266-9c78-9a520bed5686'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "d2302a0f-812a-4266-9c78-9a520bed5686",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d2302a0f-812a-4266-9c78-9a520bed5686'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d2302a0f-812a-4266-9c78-9a520bed5686\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.37.24-EZK.37.28": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.37.24-EZK.37.28",
+                "orgId": "EZK.37.24-EZK.37.28",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.37"
+                ],
+                "reference": "Ezekiel 37:24-28",
+                "content": "<p class=\"p\"><span data-number=\"24\" data-sid=\"EZK 37:24\" class=\"v\">24</span>“My servant David shall be king over them, and they shall all have one shepherd. They shall walk in my rules and be careful to obey my statutes. <span data-number=\"25\" data-sid=\"EZK 37:25\" class=\"v\">25</span>They shall dwell in the land that I gave to my servant Jacob, where your fathers lived. They and their children and their children’s children shall dwell there forever, and David my servant shall be their prince forever. <span data-number=\"26\" data-sid=\"EZK 37:26\" class=\"v\">26</span>I will make a covenant of peace with them. It shall be an everlasting covenant with them. And I will set them in their land and multiply them, and will set my sanctuary in their midst forevermore. <span data-number=\"27\" data-sid=\"EZK 37:27\" class=\"v\">27</span>My dwelling place shall be with them, and I will be their God, and they shall be my people. <span data-number=\"28\" data-sid=\"EZK 37:28\" class=\"v\">28</span>Then the nations will know that I am the <span class=\"nd\">Lord</span> who sanctifies Israel, when my sanctuary is in their midst forevermore.”</p>",
+                "verseCount": 5,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('13a8bc17-c8f6-4e26-8835-f0ddeeb449e1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='13a8bc17-c8f6-4e26-8835-f0ddeeb449e1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "13a8bc17-c8f6-4e26-8835-f0ddeeb449e1",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('13a8bc17-c8f6-4e26-8835-f0ddeeb449e1'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=13a8bc17-c8f6-4e26-8835-f0ddeeb449e1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "ISA.40.11": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "ISA.40.11",
+                "orgId": "ISA.40.11",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "ISA",
+                "chapterIds": [
+                    "ISA.40"
+                ],
+                "reference": "Isaiah 40:11",
+                "content": "<p class=\"q1\"><span data-number=\"11\" data-sid=\"ISA 40:11\" class=\"v\">11</span>He will tend his flock like a shepherd;</p><p data-vid=\"ISA 40:11\" class=\"q2\">he will gather the lambs in his arms;</p><p data-vid=\"ISA 40:11\" class=\"q1\">he will carry them in his bosom,</p><p data-vid=\"ISA 40:11\" class=\"q2\">and gently lead those that are with young.</p>",
+                "verseCount": 1,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('da8a741c-2498-4503-ae55-246282095fbd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='da8a741c-2498-4503-ae55-246282095fbd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "da8a741c-2498-4503-ae55-246282095fbd",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('da8a741c-2498-4503-ae55-246282095fbd'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=da8a741c-2498-4503-ae55-246282095fbd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.34.25-EZK.34.31": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.34.25-EZK.34.31",
+                "orgId": "EZK.34.25-EZK.34.31",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.34"
+                ],
+                "reference": "Ezekiel 34:25-31",
+                "content": "<p class=\"s1\">The <span class=\"nd\">Lord</span>’s Covenant of Peace</p><p class=\"p\"><span data-number=\"25\" data-sid=\"EZK 34:25\" class=\"v\">25</span>“I will make with them a covenant of peace and banish wild beasts from the land, so that they may dwell securely in the wilderness and sleep in the woods. <span data-number=\"26\" data-sid=\"EZK 34:26\" class=\"v\">26</span>And I will make them and the places all around my hill a blessing, and I will send down the showers in their season; they shall be showers of blessing. <span data-number=\"27\" data-sid=\"EZK 34:27\" class=\"v\">27</span>And the trees of the field shall yield their fruit, and the earth shall yield its increase, and they shall be secure in their land. And they shall know that I am the <span class=\"nd\">Lord</span>, when I break the bars of their yoke, and deliver them from the hand of those who enslaved them. <span data-number=\"28\" data-sid=\"EZK 34:28\" class=\"v\">28</span>They shall no more be a prey to the nations, nor shall the beasts of the land devour them. They shall dwell securely, and none shall make them afraid. <span data-number=\"29\" data-sid=\"EZK 34:29\" class=\"v\">29</span>And I will provide for them renowned plantations so that they shall no more be consumed with hunger in the land, and no longer suffer the reproach of the nations. <span data-number=\"30\" data-sid=\"EZK 34:30\" class=\"v\">30</span>And they shall know that I am the <span class=\"nd\">Lord</span> their God with them, and that they, the house of Israel, are my people, declares the Lord <span class=\"nd\">God</span>. <span data-number=\"31\" data-sid=\"EZK 34:31\" class=\"v\">31</span>And you are my sheep, human sheep of my pasture, and I am your God, declares the Lord <span class=\"nd\">God</span>.”</p>",
+                "verseCount": 7,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('82165fcf-0b2b-49b0-86cf-26d40ce938dd');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='82165fcf-0b2b-49b0-86cf-26d40ce938dd'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "82165fcf-0b2b-49b0-86cf-26d40ce938dd",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('82165fcf-0b2b-49b0-86cf-26d40ce938dd'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=82165fcf-0b2b-49b0-86cf-26d40ce938dd\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.37.26": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.37.26",
+                "orgId": "EZK.37.26",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.37"
+                ],
+                "reference": "Ezekiel 37:26",
+                "content": "<p class=\"p\"><span data-number=\"26\" data-sid=\"EZK 37:26\" class=\"v\">26</span>I will make a covenant of peace with them. It shall be an everlasting covenant with them. And I will set them in their land and multiply them, and will set my sanctuary in their midst forevermore. </p>",
+                "verseCount": 1,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('db335922-df24-4f4c-92fd-09a5e02fb160');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='db335922-df24-4f4c-92fd-09a5e02fb160'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "db335922-df24-4f4c-92fd-09a5e02fb160",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('db335922-df24-4f4c-92fd-09a5e02fb160'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=db335922-df24-4f4c-92fd-09a5e02fb160\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "ISA.54.10": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "ISA.54.10",
+                "orgId": "ISA.54.10",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "ISA",
+                "chapterIds": [
+                    "ISA.54"
+                ],
+                "reference": "Isaiah 54:10",
+                "content": "<p class=\"q1\"><span data-number=\"10\" data-sid=\"ISA 54:10\" class=\"v\">10</span>For the mountains may depart</p><p data-vid=\"ISA 54:10\" class=\"q2\">and the hills be removed,</p><p data-vid=\"ISA 54:10\" class=\"q1\">but my steadfast love shall not depart from you,</p><p data-vid=\"ISA 54:10\" class=\"q2\">and my covenant of peace shall not be removed,”</p><p data-vid=\"ISA 54:10\" class=\"q2\">says the <span class=\"nd\">Lord</span>, who has compassion on you.</p>",
+                "verseCount": 1,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('e1591baf-425d-4419-96d3-0a093ea547a7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='e1591baf-425d-4419-96d3-0a093ea547a7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "e1591baf-425d-4419-96d3-0a093ea547a7",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('e1591baf-425d-4419-96d3-0a093ea547a7'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=e1591baf-425d-4419-96d3-0a093ea547a7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.36.1-EZK.36.7": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.36.1-EZK.36.7",
+                "orgId": "EZK.36.1-EZK.36.7",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.36"
+                ],
+                "reference": "Ezekiel 36:1-7",
+                "content": "<p class=\"s1\">Prophecy to the Mountains of Israel</p><p class=\"p\"><span data-number=\"1\" data-sid=\"EZK 36:1\" class=\"v\">1</span>“And you, son of man, prophesy to the mountains of Israel, and say, O mountains of Israel, hear the word of the <span class=\"nd\">Lord</span>. <span data-number=\"2\" data-sid=\"EZK 36:2\" class=\"v\">2</span>Thus says the Lord <span class=\"nd\">God</span>: Because the enemy said of you, ‘Aha!’ and, ‘The ancient heights have become our possession,’ <span data-number=\"3\" data-sid=\"EZK 36:3\" class=\"v\">3</span>therefore prophesy, and say, Thus says the Lord <span class=\"nd\">God</span>: Precisely because they made you desolate and crushed you from all sides, so that you became the possession of the rest of the nations, and you became the talk and evil gossip of the people, <span data-number=\"4\" data-sid=\"EZK 36:4\" class=\"v\">4</span>therefore, O mountains of Israel, hear the word of the Lord <span class=\"nd\">God</span>: Thus says the Lord <span class=\"nd\">God</span> to the mountains and the hills, the ravines and the valleys, the desolate wastes and the deserted cities, which have become a prey and derision to the rest of the nations all around, <span data-number=\"5\" data-sid=\"EZK 36:5\" class=\"v\">5</span>therefore thus says the Lord <span class=\"nd\">God</span>: Surely I have spoken in my hot jealousy against the rest of the nations and against all Edom, who gave my land to themselves as a possession with wholehearted joy and utter contempt, that they might make its pasturelands a prey. <span data-number=\"6\" data-sid=\"EZK 36:6\" class=\"v\">6</span>Therefore prophesy concerning the land of Israel, and say to the mountains and hills, to the ravines and valleys, Thus says the Lord <span class=\"nd\">God</span>: Behold, I have spoken in my jealous wrath, because you have suffered the reproach of the nations. <span data-number=\"7\" data-sid=\"EZK 36:7\" class=\"v\">7</span>Therefore thus says the Lord <span class=\"nd\">God</span>: I swear that the nations that are all around you shall themselves suffer reproach.</p>",
+                "verseCount": 7,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('cea03589-9b4f-459a-bd27-df2987003fa3');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='cea03589-9b4f-459a-bd27-df2987003fa3'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "cea03589-9b4f-459a-bd27-df2987003fa3",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('cea03589-9b4f-459a-bd27-df2987003fa3'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=cea03589-9b4f-459a-bd27-df2987003fa3\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.36.8-EZK.36.15": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.36.8-EZK.36.15",
+                "orgId": "EZK.36.8-EZK.36.15",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.36"
+                ],
+                "reference": "Ezekiel 36:8-15",
+                "content": "<p class=\"p\"><span data-number=\"8\" data-sid=\"EZK 36:8\" class=\"v\">8</span>“But you, O mountains of Israel, shall shoot forth your branches and yield your fruit to my people Israel, for they will soon come home. <span data-number=\"9\" data-sid=\"EZK 36:9\" class=\"v\">9</span>For behold, I am for you, and I will turn to you, and you shall be tilled and sown. <span data-number=\"10\" data-sid=\"EZK 36:10\" class=\"v\">10</span>And I will multiply people on you, the whole house of Israel, all of it. The cities shall be inhabited and the waste places rebuilt. <span data-number=\"11\" data-sid=\"EZK 36:11\" class=\"v\">11</span>And I will multiply on you man and beast, and they shall multiply and be fruitful. And I will cause you to be inhabited as in your former times, and will do more good to you than ever before. Then you will know that I am the <span class=\"nd\">Lord</span>. <span data-number=\"12\" data-sid=\"EZK 36:12\" class=\"v\">12</span>I will let people walk on you, even my people Israel. And they shall possess you, and you shall be their inheritance, and you shall no longer bereave them of children. <span data-number=\"13\" data-sid=\"EZK 36:13\" class=\"v\">13</span>Thus says the Lord <span class=\"nd\">God</span>: Because they say to you, ‘You devour people, and you bereave your nation of children,’ <span data-number=\"14\" data-sid=\"EZK 36:14\" class=\"v\">14</span>therefore you shall no longer devour people and no longer bereave your nation of children, declares the Lord <span class=\"nd\">God</span>. <span data-number=\"15\" data-sid=\"EZK 36:15\" class=\"v\">15</span>And I will not let you hear anymore the reproach of the nations, and you shall no longer bear the disgrace of the peoples and no longer cause your nation to stumble, declares the Lord <span class=\"nd\">God</span>.”</p>",
+                "verseCount": 8,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1c71e9bf-3899-45df-9c73-96164e603de8');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1c71e9bf-3899-45df-9c73-96164e603de8'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "1c71e9bf-3899-45df-9c73-96164e603de8",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1c71e9bf-3899-45df-9c73-96164e603de8'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1c71e9bf-3899-45df-9c73-96164e603de8\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "ISA.54.17": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "ISA.54.17",
+                "orgId": "ISA.54.17",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "ISA",
+                "chapterIds": [
+                    "ISA.54"
+                ],
+                "reference": "Isaiah 54:17",
+                "content": "<p class=\"q2\"><span data-number=\"17\" data-sid=\"ISA 54:17\" class=\"v\">17</span>no weapon that is fashioned against you shall succeed,</p><p data-vid=\"ISA 54:17\" class=\"q2\">and you shall refute every tongue that rises against you in judgment.</p><p data-vid=\"ISA 54:17\" class=\"q1\">This is the heritage of the servants of the <span class=\"nd\">Lord</span></p><p data-vid=\"ISA 54:17\" class=\"q2\">and their vindication from me, declares the <span class=\"nd\">Lord</span>.”</p>",
+                "verseCount": 1,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('c651c2f4-a3ac-468b-be4b-d794ae73c4ed');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='c651c2f4-a3ac-468b-be4b-d794ae73c4ed'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "c651c2f4-a3ac-468b-be4b-d794ae73c4ed",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('c651c2f4-a3ac-468b-be4b-d794ae73c4ed'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=c651c2f4-a3ac-468b-be4b-d794ae73c4ed\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.37.21-EZK.37.28": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.37.21-EZK.37.28",
+                "orgId": "EZK.37.21-EZK.37.28",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.37"
+                ],
+                "reference": "Ezekiel 37:21-28",
+                "content": "<p class=\"p\"><span data-number=\"21\" data-sid=\"EZK 37:21\" class=\"v\">21</span>then say to them, Thus says the Lord <span class=\"nd\">God</span>: Behold, I will take the people of Israel from the nations among which they have gone, and will gather them from all around, and bring them to their own land. <span data-number=\"22\" data-sid=\"EZK 37:22\" class=\"v\">22</span>And I will make them one nation in the land, on the mountains of Israel. And one king shall be king over them all, and they shall be no longer two nations, and no longer divided into two kingdoms. <span data-number=\"23\" data-sid=\"EZK 37:23\" class=\"v\">23</span>They shall not defile themselves anymore with their idols and their detestable things, or with any of their transgressions. But I will save them from all the backslidings in which they have sinned, and will cleanse them; and they shall be my people, and I will be their God.</p><p class=\"p\"><span data-number=\"24\" data-sid=\"EZK 37:24\" class=\"v\">24</span>“My servant David shall be king over them, and they shall all have one shepherd. They shall walk in my rules and be careful to obey my statutes. <span data-number=\"25\" data-sid=\"EZK 37:25\" class=\"v\">25</span>They shall dwell in the land that I gave to my servant Jacob, where your fathers lived. They and their children and their children’s children shall dwell there forever, and David my servant shall be their prince forever. <span data-number=\"26\" data-sid=\"EZK 37:26\" class=\"v\">26</span>I will make a covenant of peace with them. It shall be an everlasting covenant with them. And I will set them in their land and multiply them, and will set my sanctuary in their midst forevermore. <span data-number=\"27\" data-sid=\"EZK 37:27\" class=\"v\">27</span>My dwelling place shall be with them, and I will be their God, and they shall be my people. <span data-number=\"28\" data-sid=\"EZK 37:28\" class=\"v\">28</span>Then the nations will know that I am the <span class=\"nd\">Lord</span> who sanctifies Israel, when my sanctuary is in their midst forevermore.”</p>",
+                "verseCount": 8,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('825cae4e-bdb0-4cfb-8bfb-dceedabc15c1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='825cae4e-bdb0-4cfb-8bfb-dceedabc15c1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "825cae4e-bdb0-4cfb-8bfb-dceedabc15c1",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('825cae4e-bdb0-4cfb-8bfb-dceedabc15c1'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=825cae4e-bdb0-4cfb-8bfb-dceedabc15c1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "ISA.43.18-ISA.43.19": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "ISA.43.18-ISA.43.19",
+                "orgId": "ISA.43.18-ISA.43.19",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "ISA",
+                "chapterIds": [
+                    "ISA.43"
+                ],
+                "reference": "Isaiah 43:18-19",
+                "content": "<p class=\"q1\"><span data-number=\"18\" data-sid=\"ISA 43:18\" class=\"v\">18</span>“Remember not the former things,</p><p data-vid=\"ISA 43:18\" class=\"q2\">nor consider the things of old.</p><p class=\"q1\"><span data-number=\"19\" data-sid=\"ISA 43:19\" class=\"v\">19</span>Behold, I am doing a new thing;</p><p data-vid=\"ISA 43:19\" class=\"q2\">now it springs forth, do you not perceive it?</p><p data-vid=\"ISA 43:19\" class=\"q1\">I will make a way in the wilderness</p><p data-vid=\"ISA 43:19\" class=\"q2\">and rivers in the desert.</p>",
+                "verseCount": 2,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('042fd0ef-ae19-45c6-8eaf-56ca39b2f982');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='042fd0ef-ae19-45c6-8eaf-56ca39b2f982'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "042fd0ef-ae19-45c6-8eaf-56ca39b2f982",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('042fd0ef-ae19-45c6-8eaf-56ca39b2f982'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=042fd0ef-ae19-45c6-8eaf-56ca39b2f982\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.36.16-EZK.36.21": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.36.16-EZK.36.21",
+                "orgId": "EZK.36.16-EZK.36.21",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.36"
+                ],
+                "reference": "Ezekiel 36:16-21",
+                "content": "<p class=\"s1\">The <span class=\"nd\">Lord</span>’s Concern for His Holy Name</p><p class=\"p\"><span data-number=\"16\" data-sid=\"EZK 36:16\" class=\"v\">16</span>The word of the <span class=\"nd\">Lord</span> came to me: <span data-number=\"17\" data-sid=\"EZK 36:17\" class=\"v\">17</span>“Son of man, when the house of Israel lived in their own land, they defiled it by their ways and their deeds. Their ways before me were like the uncleanness of a woman in her menstrual impurity. <span data-number=\"18\" data-sid=\"EZK 36:18\" class=\"v\">18</span>So I poured out my wrath upon them for the blood that they had shed in the land, for the idols with which they had defiled it. <span data-number=\"19\" data-sid=\"EZK 36:19\" class=\"v\">19</span>I scattered them among the nations, and they were dispersed through the countries. In accordance with their ways and their deeds I judged them. <span data-number=\"20\" data-sid=\"EZK 36:20\" class=\"v\">20</span>But when they came to the nations, wherever they came, they profaned my holy name, in that people said of them, ‘These are the people of the <span class=\"nd\">Lord</span>, and yet they had to go out of his land.’ <span data-number=\"21\" data-sid=\"EZK 36:21\" class=\"v\">21</span>But I had concern for my holy name, which the house of Israel had profaned among the nations to which they came.</p>",
+                "verseCount": 6,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1b00e5fb-bee2-434a-92fa-31349bdcfaf4');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1b00e5fb-bee2-434a-92fa-31349bdcfaf4'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "1b00e5fb-bee2-434a-92fa-31349bdcfaf4",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1b00e5fb-bee2-434a-92fa-31349bdcfaf4'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1b00e5fb-bee2-434a-92fa-31349bdcfaf4\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.36.22-EZK.36.32": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.36.22-EZK.36.32",
+                "orgId": "EZK.36.22-EZK.36.32",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.36"
+                ],
+                "reference": "Ezekiel 36:22-32",
+                "content": "<p class=\"s1\">I Will Put My Spirit Within You</p><p class=\"p\"><span data-number=\"22\" data-sid=\"EZK 36:22\" class=\"v\">22</span>“Therefore say to the house of Israel, Thus says the Lord <span class=\"nd\">God</span>: It is not for your sake, O house of Israel, that I am about to act, but for the sake of my holy name, which you have profaned among the nations to which you came. <span data-number=\"23\" data-sid=\"EZK 36:23\" class=\"v\">23</span>And I will vindicate the holiness of my great name, which has been profaned among the nations, and which you have profaned among them. And the nations will know that I am the <span class=\"nd\">Lord</span>, declares the Lord <span class=\"nd\">God</span>, when through you I vindicate my holiness before their eyes. <span data-number=\"24\" data-sid=\"EZK 36:24\" class=\"v\">24</span>I will take you from the nations and gather you from all the countries and bring you into your own land. <span data-number=\"25\" data-sid=\"EZK 36:25\" class=\"v\">25</span>I will sprinkle clean water on you, and you shall be clean from all your uncleannesses, and from all your idols I will cleanse you. <span data-number=\"26\" data-sid=\"EZK 36:26\" class=\"v\">26</span>And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. <span data-number=\"27\" data-sid=\"EZK 36:27\" class=\"v\">27</span>And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules. <span data-number=\"28\" data-sid=\"EZK 36:28\" class=\"v\">28</span>You shall dwell in the land that I gave to your fathers, and you shall be my people, and I will be your God. <span data-number=\"29\" data-sid=\"EZK 36:29\" class=\"v\">29</span>And I will deliver you from all your uncleannesses. And I will summon the grain and make it abundant and lay no famine upon you. <span data-number=\"30\" data-sid=\"EZK 36:30\" class=\"v\">30</span>I will make the fruit of the tree and the increase of the field abundant, that you may never again suffer the disgrace of famine among the nations. <span data-number=\"31\" data-sid=\"EZK 36:31\" class=\"v\">31</span>Then you will remember your evil ways, and your deeds that were not good, and you will loathe yourselves for your iniquities and your abominations. <span data-number=\"32\" data-sid=\"EZK 36:32\" class=\"v\">32</span>It is not for your sake that I will act, declares the Lord <span class=\"nd\">God</span>; let that be known to you. Be ashamed and confounded for your ways, O house of Israel.</p>",
+                "verseCount": 11,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('6eb41b36-9701-4f27-881a-f2d639ab26c0');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='6eb41b36-9701-4f27-881a-f2d639ab26c0'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "6eb41b36-9701-4f27-881a-f2d639ab26c0",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('6eb41b36-9701-4f27-881a-f2d639ab26c0'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=6eb41b36-9701-4f27-881a-f2d639ab26c0\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "PSA.23.3": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "PSA.23.3",
+                "orgId": "PSA.23.3",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "PSA",
+                "chapterIds": [
+                    "PSA.23"
+                ],
+                "reference": "Psalm 23:3",
+                "content": "<p class=\"q2\"><span data-number=\"3\" data-sid=\"PSA 23:3\" class=\"v\">3</span>He restores my soul.</p><p data-vid=\"PSA 23:3\" class=\"q1\">He leads me in paths of righteousness</p><p data-vid=\"PSA 23:3\" class=\"q2\">for his name’s sake.</p>",
+                "verseCount": 1,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('146beb5e-8aa6-44ba-8dbb-71fe1125c4bb');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='146beb5e-8aa6-44ba-8dbb-71fe1125c4bb'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "146beb5e-8aa6-44ba-8dbb-71fe1125c4bb",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('146beb5e-8aa6-44ba-8dbb-71fe1125c4bb'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=146beb5e-8aa6-44ba-8dbb-71fe1125c4bb\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.37.1-EZK.37.14": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.37.1-EZK.37.14",
+                "orgId": "EZK.37.1-EZK.37.14",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.37"
+                ],
+                "reference": "Ezekiel 37:1-14",
+                "content": "<p class=\"s1\">The Valley of Dry Bones</p><p class=\"p\"><span data-number=\"1\" data-sid=\"EZK 37:1\" class=\"v\">1</span>The hand of the <span class=\"nd\">Lord</span> was upon me, and he brought me out in the Spirit of the <span class=\"nd\">Lord</span> and set me down in the middle of the valley; it was full of bones. <span data-number=\"2\" data-sid=\"EZK 37:2\" class=\"v\">2</span>And he led me around among them, and behold, there were very many on the surface of the valley, and behold, they were very dry. <span data-number=\"3\" data-sid=\"EZK 37:3\" class=\"v\">3</span>And he said to me, “Son of man, can these bones live?” And I answered, “O Lord <span class=\"nd\">God</span>, you know.” <span data-number=\"4\" data-sid=\"EZK 37:4\" class=\"v\">4</span>Then he said to me, “Prophesy over these bones, and say to them, O dry bones, hear the word of the <span class=\"nd\">Lord</span>. <span data-number=\"5\" data-sid=\"EZK 37:5\" class=\"v\">5</span>Thus says the Lord <span class=\"nd\">God</span> to these bones: Behold, I will cause breath to enter you, and you shall live. <span data-number=\"6\" data-sid=\"EZK 37:6\" class=\"v\">6</span>And I will lay sinews upon you, and will cause flesh to come upon you, and cover you with skin, and put breath in you, and you shall live, and you shall know that I am the <span class=\"nd\">Lord</span>.”</p><p class=\"p\"><span data-number=\"7\" data-sid=\"EZK 37:7\" class=\"v\">7</span>So I prophesied as I was commanded. And as I prophesied, there was a sound, and behold, a rattling, and the bones came together, bone to its bone. <span data-number=\"8\" data-sid=\"EZK 37:8\" class=\"v\">8</span>And I looked, and behold, there were sinews on them, and flesh had come upon them, and skin had covered them. But there was no breath in them. <span data-number=\"9\" data-sid=\"EZK 37:9\" class=\"v\">9</span>Then he said to me, “Prophesy to the breath; prophesy, son of man, and say to the breath, Thus says the Lord <span class=\"nd\">God</span>: Come from the four winds, O breath, and breathe on these slain, that they may live.” <span data-number=\"10\" data-sid=\"EZK 37:10\" class=\"v\">10</span>So I prophesied as he commanded me, and the breath came into them, and they lived and stood on their feet, an exceedingly great army.</p><p class=\"p\"><span data-number=\"11\" data-sid=\"EZK 37:11\" class=\"v\">11</span>Then he said to me, “Son of man, these bones are the whole house of Israel. Behold, they say, ‘Our bones are dried up, and our hope is lost; we are indeed cut off.’ <span data-number=\"12\" data-sid=\"EZK 37:12\" class=\"v\">12</span>Therefore prophesy, and say to them, Thus says the Lord <span class=\"nd\">God</span>: Behold, I will open your graves and raise you from your graves, O my people. And I will bring you into the land of Israel. <span data-number=\"13\" data-sid=\"EZK 37:13\" class=\"v\">13</span>And you shall know that I am the <span class=\"nd\">Lord</span>, when I open your graves, and raise you from your graves, O my people. <span data-number=\"14\" data-sid=\"EZK 37:14\" class=\"v\">14</span>And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the <span class=\"nd\">Lord</span>; I have spoken, and I will do it, declares the <span class=\"nd\">Lord</span>.”</p>",
+                "verseCount": 14,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('5b12034c-7b7c-4660-ba6b-46da6900fcb1');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='5b12034c-7b7c-4660-ba6b-46da6900fcb1'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "5b12034c-7b7c-4660-ba6b-46da6900fcb1",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('5b12034c-7b7c-4660-ba6b-46da6900fcb1'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=5b12034c-7b7c-4660-ba6b-46da6900fcb1\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.36.33-EZK.36.38": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.36.33-EZK.36.38",
+                "orgId": "EZK.36.33-EZK.36.38",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.36"
+                ],
+                "reference": "Ezekiel 36:33-38",
+                "content": "<p class=\"p\"><span data-number=\"33\" data-sid=\"EZK 36:33\" class=\"v\">33</span>“Thus says the Lord <span class=\"nd\">God</span>: On the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited, and the waste places shall be rebuilt. <span data-number=\"34\" data-sid=\"EZK 36:34\" class=\"v\">34</span>And the land that was desolate shall be tilled, instead of being the desolation that it was in the sight of all who passed by. <span data-number=\"35\" data-sid=\"EZK 36:35\" class=\"v\">35</span>And they will say, ‘This land that was desolate has become like the garden of Eden, and the waste and desolate and ruined cities are now fortified and inhabited.’ <span data-number=\"36\" data-sid=\"EZK 36:36\" class=\"v\">36</span>Then the nations that are left all around you shall know that I am the <span class=\"nd\">Lord</span>; I have rebuilt the ruined places and replanted that which was desolate. I am the <span class=\"nd\">Lord</span>; I have spoken, and I will do it.</p><p class=\"p\"><span data-number=\"37\" data-sid=\"EZK 36:37\" class=\"v\">37</span>“Thus says the Lord <span class=\"nd\">God</span>: This also I will let the house of Israel ask me to do for them: to increase their people like a flock. <span data-number=\"38\" data-sid=\"EZK 36:38\" class=\"v\">38</span>Like the flock for sacrifices, like the flock at Jerusalem during her appointed feasts, so shall the waste cities be filled with flocks of people. Then they will know that I am the <span class=\"nd\">Lord</span>.”</p>",
+                "verseCount": 6,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('db9b463d-28f1-4280-a03c-ff76b15e325b');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='db9b463d-28f1-4280-a03c-ff76b15e325b'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "db9b463d-28f1-4280-a03c-ff76b15e325b",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('db9b463d-28f1-4280-a03c-ff76b15e325b'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=db9b463d-28f1-4280-a03c-ff76b15e325b\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "EZK.37.15-EZK.37.28": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "EZK.37.15-EZK.37.28",
+                "orgId": "EZK.37.15-EZK.37.28",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "EZK",
+                "chapterIds": [
+                    "EZK.37"
+                ],
+                "reference": "Ezekiel 37:15-28",
+                "content": "<p class=\"s1\">I Will Be Their God; They Shall Be My People</p><p class=\"p\"><span data-number=\"15\" data-sid=\"EZK 37:15\" class=\"v\">15</span>The word of the <span class=\"nd\">Lord</span> came to me: <span data-number=\"16\" data-sid=\"EZK 37:16\" class=\"v\">16</span>“Son of man, take a stick and write on it, ‘For Judah, and the people of Israel associated with him’; then take another stick and write on it, ‘For Joseph (the stick of Ephraim) and all the house of Israel associated with him.’ <span data-number=\"17\" data-sid=\"EZK 37:17\" class=\"v\">17</span>And join them one to another into one stick, that they may become one in your hand. <span data-number=\"18\" data-sid=\"EZK 37:18\" class=\"v\">18</span>And when your people say to you, ‘Will you not tell us what you mean by these?’ <span data-number=\"19\" data-sid=\"EZK 37:19\" class=\"v\">19</span>say to them, Thus says the Lord <span class=\"nd\">God</span>: Behold, I am about to take the stick of Joseph (that is in the hand of Ephraim) and the tribes of Israel associated with him. And I will join with it the stick of Judah, and make them one stick, that they may be one in my hand. <span data-number=\"20\" data-sid=\"EZK 37:20\" class=\"v\">20</span>When the sticks on which you write are in your hand before their eyes, <span data-number=\"21\" data-sid=\"EZK 37:21\" class=\"v\">21</span>then say to them, Thus says the Lord <span class=\"nd\">God</span>: Behold, I will take the people of Israel from the nations among which they have gone, and will gather them from all around, and bring them to their own land. <span data-number=\"22\" data-sid=\"EZK 37:22\" class=\"v\">22</span>And I will make them one nation in the land, on the mountains of Israel. And one king shall be king over them all, and they shall be no longer two nations, and no longer divided into two kingdoms. <span data-number=\"23\" data-sid=\"EZK 37:23\" class=\"v\">23</span>They shall not defile themselves anymore with their idols and their detestable things, or with any of their transgressions. But I will save them from all the backslidings in which they have sinned, and will cleanse them; and they shall be my people, and I will be their God.</p><p class=\"p\"><span data-number=\"24\" data-sid=\"EZK 37:24\" class=\"v\">24</span>“My servant David shall be king over them, and they shall all have one shepherd. They shall walk in my rules and be careful to obey my statutes. <span data-number=\"25\" data-sid=\"EZK 37:25\" class=\"v\">25</span>They shall dwell in the land that I gave to my servant Jacob, where your fathers lived. They and their children and their children’s children shall dwell there forever, and David my servant shall be their prince forever. <span data-number=\"26\" data-sid=\"EZK 37:26\" class=\"v\">26</span>I will make a covenant of peace with them. It shall be an everlasting covenant with them. And I will set them in their land and multiply them, and will set my sanctuary in their midst forevermore. <span data-number=\"27\" data-sid=\"EZK 37:27\" class=\"v\">27</span>My dwelling place shall be with them, and I will be their God, and they shall be my people. <span data-number=\"28\" data-sid=\"EZK 37:28\" class=\"v\">28</span>Then the nations will know that I am the <span class=\"nd\">Lord</span> who sanctifies Israel, when my sanctuary is in their midst forevermore.”</p>",
+                "verseCount": 14,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('1f6d3d2c-03ea-42b0-bc35-1205f3544426');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='1f6d3d2c-03ea-42b0-bc35-1205f3544426'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "1f6d3d2c-03ea-42b0-bc35-1205f3544426",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('1f6d3d2c-03ea-42b0-bc35-1205f3544426'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=1f6d3d2c-03ea-42b0-bc35-1205f3544426\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "ISA.51.3": {
+        "site": {
+            "app": {
+                "description": "This is the English Bible app",
+                "keywords": [
+                    "Bible",
+                    "Scripture"
+                ],
+                "nameInstalled": "Holy Bible",
+                "nameAppStore": "Holy Bible"
+            },
+            "logoImage": "adc51727-33a2-48e6-a0ac-97de7ea196dd_biblesearch_logo_white.svg",
+            "published": true,
+            "installedName": "BibleSearch",
+            "storeDescription": "BibleSearch",
+            "googleAnalyticsId": "UA-2342140-14",
+            "primaryColor": "#4d4d4d",
+            "primaryLanguage": "en",
+            "secondaryLanguage": null,
+            "scriptDirection": "LTR",
+            "keywords": "Holy Bible, Bible, Scripture",
+            "SK": "SUBDOMAIN#biblesearch",
+            "id": "36cbc995-b112-48b2-b765-7a95d92d4d3e",
+            "secondaryColor": "#fcb900",
+            "includeAllBibles": true,
+            "subdomain": "biblesearch",
+            "appStoreName": "BibleSearch",
+            "customDomain": "bibles.org",
+            "createdAt": 1520367901773,
+            "isWhiteHeader": false,
+            "iconImage": "4f9e86c8-b7d8-48d3-af98-6bf32b7f6c4b_icon.svg",
+            "enabledUserAccounts": false,
+            "uiFont": "Noto Sans",
+            "bibleFont": "Noto Serif",
+            "updatedAt": 1711041720569,
+            "PK": "SITE",
+            "showBibleAbbreviations": true,
+            "title": "BibleSearch"
+        },
+        "bible": {
+            "descriptionLocal": "English Standard Version Revision 2016",
+            "dblId": "f421fe261da7624f",
+            "abbreviationLocal": "ESV16",
+            "description": "English Standard Version Revision 2016",
+            "language": {
+                "name": "English",
+                "id": "eng",
+                "nameLocal": "English",
+                "script": "Latin",
+                "scriptDirection": "LTR"
+            },
+            "countries": [
+                {
+                    "name": "United States of America",
+                    "nameLocal": "United States of America",
+                    "id": "US"
+                }
+            ],
+            "abbreviation": "ESV16",
+            "type": "text",
+            "audioBibles": [],
+            "name": "English Standard Version Revision 2016",
+            "id": "f421fe261da7624f-01",
+            "nameLocal": "English Standard Version Revision 2016",
+            "updatedAt": "2022-09-22T00:32:53.000Z"
+        },
+        "passage": {
+            "data": {
+                "id": "ISA.51.3",
+                "orgId": "ISA.51.3",
+                "bibleId": "f421fe261da7624f-01",
+                "bookId": "ISA",
+                "chapterIds": [
+                    "ISA.51"
+                ],
+                "reference": "Isaiah 51:3",
+                "content": "<p class=\"q1\"><span data-number=\"3\" data-sid=\"ISA 51:3\" class=\"v\">3</span>For the <span class=\"nd\">Lord</span> comforts Zion;</p><p data-vid=\"ISA 51:3\" class=\"q2\">he comforts all her waste places</p><p data-vid=\"ISA 51:3\" class=\"q1\">and makes her wilderness like Eden,</p><p data-vid=\"ISA 51:3\" class=\"q2\">her desert like the garden of the <span class=\"nd\">Lord</span>;</p><p data-vid=\"ISA 51:3\" class=\"q1\">joy and gladness will be found in her,</p><p data-vid=\"ISA 51:3\" class=\"q2\">thanksgiving and the voice of song.</p>",
+                "verseCount": 1,
+                "copyright": "NOTIFICATION: The Holy Bible, English Standard Version® (ESV®) Copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. All rights reserved. ESV Text Edition: 2016 The Holy Bible, English Standard Version (ESV) is adapted from the Revised Standard Version of the Bible, copyright Division of Christian Education of the National Council of the Churches of Christ in the U.S.A. All rights reserved."
+            },
+            "meta": {
+                "fums": "<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)==='undefined'){\ndocument.write('\\x3Cscript src=\"'+document.location.protocol+'//cdn.scripture.api.bible/fums/fumsv2.min.js\"\\x3E\\x3C/script\\x3E');}\ndocument.write(\"\\x3Cscript\\x3E_BAPI.t('d496de75-fae7-4a6d-84fc-2199910bafa7');\\x3C/script\\x3E\");\n</script><noscript><img src=\"https://d3a2okcloueqyx.cloudfront.net/nf1?t='d496de75-fae7-4a6d-84fc-2199910bafa7'\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" /></noscript>",
+                "fumsId": "d496de75-fae7-4a6d-84fc-2199910bafa7",
+                "fumsJsInclude": "cdn.scripture.api.bible/fums/fumsv2.min.js",
+                "fumsJs": "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('d496de75-fae7-4a6d-84fc-2199910bafa7'); }",
+                "fumsNoScript": "<img src=\"https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=d496de75-fae7-4a6d-84fc-2199910bafa7\" height=\"1\" width=\"1\" border=\"0\" alt=\"\" style=\"height: 0; width: 0;\" />"
+            }
+        }
+    },
+    "ISA.52.13-ISA.52.15": {
+        "message": "Internal server error"
+    },
+    "PHP.2.5-PHP.2.11": {
+        "message": "Internal server error"
+    },
+    "HEB.2.9": {
+        "message": "Internal server error"
+    },
+    "ISA.53.1-ISA.53.3": {
+        "message": "Internal server error"
+    },
+    "JHN.1.10-JHN.1.11": {
+        "message": "Internal server error"
+    },
+    "MAT.26.67-MAT.26.68": {
+        "message": "Internal server error"
+    },
+    "1PE.2.24": {
+        "message": "Internal server error"
+    },
+    "ROM.5.8": {
+        "message": "Internal server error"
+    },
+    "ISA.53.7-ISA.53.9": {
+        "message": "Internal server error"
+    },
+    "MAT.27.12-MAT.27.14": {
+        "message": "Internal server error"
+    },
+    "1PE.2.21-1PE.2.23": {
+        "message": "Internal server error"
+    },
+    "ISA.53.10-ISA.53.12": {
+        "message": "Internal server error"
+    },
+    "ROM.4.25": {
+        "message": "Internal server error"
+    },
+    "REV.5.9-REV.5.10": {
+        "message": "Internal server error"
     }
 }

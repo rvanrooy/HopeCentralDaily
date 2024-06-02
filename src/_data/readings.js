@@ -9,16 +9,16 @@ const db = new JSONdb("./storage.json");
 async function getFromDB(passageRef) {
   // console.log(`looking for passage ${passageRef}`)
 
-  console.log(passageRef);
+  //console.log(passageRef);
   if (db.has(passageRef)) {
-    console.log(`hit in db`);
+    //console.log(`hit in db`);
     return db.get(passageRef);
   } else {
     let url = `https://bibles.org/site-assets/passages/${passageRef}?bibleId=f421fe261da7624f-01`;
 
     const response = await fetch(url);
 
-    console.log(response);
+    // console.log(response);
     const res = await response.json();
 
     db.set(passageRef, res);
